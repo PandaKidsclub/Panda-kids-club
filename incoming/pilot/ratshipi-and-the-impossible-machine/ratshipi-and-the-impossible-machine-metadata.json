@@ -1,0 +1,46 @@
+{
+  "name": "Ratshipi and the Impossible Machine",
+  "slug": "ratshipi-and-the-impossible-machine",
+  "shortDescription": "Brilliant village blacksmith Ratshipi faces an impossible royal request and uses clever thinking, comic inventions and a little wisdom to teach the chief an unforgettable lesson.",
+  "longDescription": "Ratshipi is famous for making almost anything from iron and steel, so Kgosi Mogale gives him an extraordinary challenge: build a metal assistant that can walk, fetch water, greet villagers, cry at sad stories and behave like a real person. Ratshipi's handmade prototypes almost work, but each one creates a new comic disaster. With help from the wise Rapule, Ratshipi turns the chief's impossible demand into an even more impossible collection challenge involving buckets of tears and pots of hair. As the whole village joins in, Kgosi Mogale finally learns that a good leader should understand what is possible before demanding the impossible.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": true,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "The blacksmith's dilemma",
+    "sourceName": "African Storybook Initiative",
+    "author": "Ugandan folktale",
+    "translator": null,
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "The blacksmith's dilemma, a Ugandan folktale, illustrated by Wiehan de Jager. African Storybook Initiative. © African Storybook Initiative 2014. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

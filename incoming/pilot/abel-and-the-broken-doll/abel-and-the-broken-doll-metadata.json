@@ -1,0 +1,47 @@
+{
+  "name": "Abel and the Broken Doll",
+  "slug": "abel-and-the-broken-doll",
+  "shortDescription": "After Abel damages Meri’s favourite doll in a moment of anger, he learns to respect boundaries, take responsibility, help repair what he broke and make amends.",
+  "longDescription": "Abel wants Meri’s favourite doll to ride in his homemade cart, but when she says no, his frustration takes over and the doll is damaged. Faced with the consequences of his actions, Abel admits what happened, listens to Meri and takes part in repairing both the doll and the trust between them. With help from a community repair specialist, he learns how careful work can restore a treasured toy, while redesigning his cart to carry toys more safely. The story teaches children that anger is normal, but grabbing, damaging another person’s belongings and ignoring their boundaries are not acceptable.",
+  "language": "English",
+  "category": "learn",
+  "collection": "social-emotional-learning",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "social-emotional-learning"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Abel and His Sister’s Doll",
+    "sourceName": "African Storybook Initiative",
+    "author": "Eyobi Kitaw",
+    "adapter": "Eyobi Kitaw",
+    "translator": null,
+    "illustrator": "Jesse Breytenbach",
+    "copyrightNotice": "© African Storybook Initiative 2017",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://africanstorybook.org/newviewer/index.php?bt=2&dual=false&id=21518",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Abel and His Sister’s Doll by Eyobi Kitaw, illustrated by Jesse Breytenbach. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

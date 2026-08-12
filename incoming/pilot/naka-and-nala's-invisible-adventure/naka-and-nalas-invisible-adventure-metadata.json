@@ -1,0 +1,49 @@
+{
+  "name": "Naka and Nala’s Invisible Adventure",
+  "slug": "naka-and-nalas-invisible-adventure",
+  "shortDescription": "Naka and Nala discover that invisible air can be understood by watching what it moves, then take to the sky in a research balloon to explore wind, clouds, breathing, the atmosphere and the importance of clean air.",
+  "longDescription": "While sitting beneath a tree in the dry veld, Naka and Nala hear leaves rustling and begin asking how something they cannot see can still be all around them. Their curiosity grows into a supervised aerial science adventure aboard a small research balloon, where they investigate moving air, rising warm air, clouds, seeds carried by the wind, birds using air currents and the way people, animals and plants depend on the atmosphere. Along the journey, the children learn that air is a mixture of gases and tiny particles, that wind is moving air, and that clouds contain tiny water droplets or ice crystals. They also discover that wind can move polluted air without making pollution disappear. When loose rubbish threatens to blow toward a wetland, Naka and Nala alert adults and community workers who secure the waste and organise a clean-up. Back beneath the original tree, the children realise that although air is usually invisible, its effects can be seen everywhere. Designed for young learners, Naka and Nala’s Invisible Adventure combines foundational atmospheric science, observation skills and environmental responsibility with a warm cinematic balloon journey.",
+  "language": "English",
+  "category": "learn",
+  "collection": "science-and-nature",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "science-and-nature"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Naka and Nala talk about air",
+    "sourceName": "African Storybook",
+    "author": "Ndivhuho Mutsila",
+    "adapter": null,
+    "translator": "Ndivhuho Mutsila",
+    "illustrator": "Simon Mokoena",
+    "assurer": "African Storybook",
+    "copyrightNotice": "© Zenex Foundation - Saide 2026 (Updated Edition)",
+    "licenseName": "CC BY (version not specified in source)",
+    "licenseUrl": null,
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": null,
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook title Naka and Nala talk about air and retitled Naka and Nala’s Invisible Adventure. Changes were made to expand the original conversation beneath a tree into a cinematic science adventure built around experiments and a supervised hot-air research-balloon journey; show invisible air through its effects on leaves, grass, ribbons, dust, seeds, birds, clouds, clothing and breathing; add simple demonstrations such as a paper bag, moving ribbon and bubbles; develop warm-air rise, cooler-air movement and birds using upward air currents; broaden the explanation of the atmosphere and the needs of people, animals and plants; introduce multiple sources of air pollution including burning rubbish, vehicle exhaust, factory emissions, dust and veld smoke; clarify that wind moves polluted air rather than making pollution disappear; and add a community clean-up sequence in which adults safely secure loose waste before it reaches a wetland. The adaptation preserves the source story’s central educational purpose: helping children understand that air is all around us, moving air is wind, living things need air, air contains gases and tiny particles, Earth is surrounded by an atmosphere, and clean air should be protected.",
+    "attributionText": "Naka and Nala talk about air, written and translated by Ndivhuho Mutsila and illustrated by Simon Mokoena. Assured by African Storybook. © Zenex Foundation - Saide 2026 (Updated Edition). Source: African Storybook. The source attribution page states CC BY but does not visibly specify the licence version. Adapted for animation by Panda Kids Club as Naka and Nala’s Invisible Adventure; changes were made."
+  }
+}

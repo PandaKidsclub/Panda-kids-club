@@ -1,0 +1,46 @@
+{
+  "name": "Warthog and the Lion’s Promise",
+  "slug": "warthog-and-the-lions-promise",
+  "shortDescription": "Warthog rescues a trapped Lion, but when Lion breaks his promise, Warthog must use clever thinking to protect his family.",
+  "longDescription": "When Warthog frees a powerful Lion from a hunter’s rope snare, Lion promises that they will be friends. But the hungry Lion soon breaks his word and threatens Warthog’s family. Unable to defeat Lion through strength, Warthog uses intelligence to trick him back into the trap and lead his family to safety. The story ends by explaining why warthogs run through tall grass with their tails raised like little flags.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Lion and Warthog",
+    "sourceName": "African Storybook",
+    "author": "",
+    "translator": "",
+    "illustrator": "",
+    "copyrightNotice": "",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Lion and Warthog. African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Asnath Mahapa flies high",
+  "slug": "asnath-mahapa-flies-high",
+  "shortDescription": "Lebo interviews Captain Asnath Mahapa for his school magazine and meets South Africa's first Black female pilot.",
+  "longDescription": "In a school-magazine interview, Lebo meets Captain Asnath Mahapa and learns about the pioneering pilot whose achievements opened new possibilities in South African aviation.",
+  "language": "English",
+  "category": "heroes",
+  "collection": "real-african-heroes",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "heroes"
+    ],
+    "collections": [
+      "real-african-heroes"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Asnath Mahapa flies high",
+    "sourceName": "Ulwazi Lwethu / African Storybook",
+    "author": "Sara Lekganyane",
+    "translator": "Sara Lekganyane",
+    "illustrator": "Khanyisa Masemola",
+    "copyrightNotice": "© Zenex Foundation - Saide 2025",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.ulwazilwethu.org.za/system/files/2025-06/asnath-mahapa-flies-high-read.pdf",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Asnath Mahapa flies high by Sara Lekganyane, illustrated by Khanyisa Masemola. Ulwazi Lwethu / African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

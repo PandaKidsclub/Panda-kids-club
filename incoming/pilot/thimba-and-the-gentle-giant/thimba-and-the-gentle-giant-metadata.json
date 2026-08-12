@@ -1,0 +1,48 @@
+{
+  "name": "Thimba and the Gentle Giant",
+  "slug": "thimba-and-the-gentle-giant",
+  "shortDescription": "Young Thimba notices that everyday tools, furniture and doorways are all the wrong size for his exceptionally tall neighbour Gobani, and brings the village together to design a world that fits him better.",
+  "longDescription": "Gobani is known throughout the village as the Gentle Giant: an exceptionally tall, quiet and friendly man who works hard in his garden. But nearly everything around him is made for smaller people. His bed leaves his feet hanging over the end, his doorway forces him to bend deeply, his table and chair do not fit his long legs, his bicycle is far too small and his short-handled hoe makes him stoop until his back aches. His young neighbour Thimba notices that Gobani always laughs off these difficulties, but instead of deciding what Gobani needs, Thimba asks a simple and respectful question: what would make your work easier? That question brings the whole village together. They measure Gobani, compare the objects that do not fit and divide into teams. Carpenters build an extra-long bed and a taller doorway, metalworkers make a long-handled hoe and a properly proportioned giant bicycle, tailors sew a long blanket, potters make larger bowls, and children help decorate the finished pieces. Choke, Gobani's mischievous chicken, adds gentle comedy throughout the measuring and building process. One by one, Gobani tries the new designs: he can work upright in his garden, walk through his doorway without ducking, sleep with his whole body supported, sit comfortably at the table and finally ride a bicycle that fits him. With the right tools, Gobani's garden becomes abundant, and he shares baskets of ordinary, healthy produce with his neighbours. The village carries the lesson forward by making tools and furniture in different sizes for different people. The story's message is simple and powerful: people should not have to change their bodies to fit the environment; thoughtful communities can design spaces and tools that allow everyone to participate.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Thimba to the rescue!",
+    "sourceName": "African Storybook Initiative",
+    "author": "Cornelius Gulere",
+    "adapter": "Penelope Smith",
+    "translator": null,
+    "illustrator": "Catherine Groenewald",
+    "copyrightNotice": "© African Storybook Initiative 2017",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://www.ugcla.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition. Changes were made, including retitling the adaptation as Thimba and the Gentle Giant; expanding the original size-comparison story into a fuller 16-page cinematic narrative; adding an opening sequence showing Gobani's too-short bed, low doorway, undersized breakfast furniture, tiny bicycle and short hoe; strengthening Thimba's role by having him observe Gobani's discomfort and ask what would make his work easier rather than assuming what he needs; expanding the measuring sequence with woven ropes, baskets and gentle comedy involving Choke; developing the village planning and building process into a collaborative workshop sequence with carpenters, metalworkers, tailors, potters and children; adding several harmless prototype jokes; giving the properly sized bicycle a larger story climax and joyful first ride; showing Gobani's correctly sized bed, doorway, table, chair, bowl and hoe as practical accessibility solutions; expanding the ending so Gobani shares the harvest and the community continues making tools and furniture in different sizes for different users; and clarifying the central message that the problem is not Gobani's body, but environments and objects that are not designed to accommodate him.",
+    "attributionText": "Thimba to the rescue!, written by Cornelius Gulere, adapted by Penelope Smith and illustrated by Catherine Groenewald. © African Storybook Initiative 2017. Source edition: African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

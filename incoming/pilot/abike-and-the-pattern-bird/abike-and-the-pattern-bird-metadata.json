@@ -1,0 +1,49 @@
+{
+  "name": "Abike and the Pattern Bird",
+  "slug": "abike-and-the-pattern-bird",
+  "shortDescription": "Abike discovers that patterns, shapes, groups, capacity and direction are all around her—and when she becomes lost, a mysterious blue bird uses a missing piece of her grandmother’s woven mat to help guide her home.",
+  "longDescription": "Abike’s most precious possession is the colourful sleeping mat her grandmother made for her. Its repeating rows of rectangles and squares become the starting point for a day of mathematical discovery. With her family, Abike notices how colour patterns repeat, how equal rows can make counting faster and how much of a mat is covered or uncovered. On her way to visit Grandmother, she watches women carrying differently sized buckets and begins comparing how much water each container might hold. At Grandmother’s home, a newly woven basket reveals sharp geometric patterns hidden inside everyday craft. But on the journey home, Abike loses the familiar path and rests beneath a tree, where shifting leaves create patterns of light and shade. When she wakes, a small blue bird appears carrying a missing piece of her treasured mat. At a fork in the path, Abike uses the bird’s clues, repeating landmarks and her own powers of observation to choose the correct way home. Safe with her mother again, she examines the mat and discovers that the missing section has somehow been restored—with a tiny blue detail that makes her wonder whether the Pattern Bird was real after all. Designed for young learners, Abike and the Pattern Bird turns early mathematics into a warm family adventure about weaving, counting, shapes, capacity, navigation, observation and the idea that mathematical patterns can be found throughout everyday life.",
+  "language": "English",
+  "category": "learn",
+  "collection": "maths-and-problem-solving",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "maths-and-problem-solving"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Abike's day",
+    "sourceName": "African Storybook Initiative",
+    "author": "Ursula Nafula",
+    "adapter": "Penelope Smith",
+    "translator": null,
+    "illustrator": "Catherine Groenewald",
+    "assurer": null,
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://www.africanstorybook.org/reader.php?id=21453",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook title Abike's day and retitled Abike and the Pattern Bird. The source story already centres Abike’s treasured sleeping mat, repeating colour patterns, rectangles and squares, counting shapes in rows, estimating covered and uncovered areas, comparing bucket capacity, recognising geometric basket patterns, becoming lost on the journey home, choosing between left and right at a fork, observing natural patterns of light and shade, following a mysterious blue bird carrying a missing piece of her mat and discovering that the piece appears to have been restored when she returns home. The Panda Kids Club adaptation expands these ideas into a more continuous child-led mathematical adventure while preserving the original family, craft and navigation foundations. Changes include making Grandmother’s weaving process a stronger emotional opening; turning the mat’s repeating border into a recurring visual learning device; showing equal rows as physical groups so Abike discovers a quicker way to count without presenting a formal written multiplication lesson; expanding the well sequence into playful comparisons between differently sized containers and the amount of water needed to fill a basin; giving Grandmother’s basket a clearer geometric pattern challenge; developing the lost-path section so the blue bird guides Abike through observable landmarks such as grouped stones, branching shapes and repeating fence patterns rather than simply indicating a direction; visualising mathematical relationships through subtle luminous threads, grouped shapes, shadows and repeated forms rather than floating equations; and expanding the final reveal so the repaired section of the mat contains a small blue shape resembling the bird. The adaptation is intended to show mathematics as part of family craftsmanship, household life, movement through the landscape and everyday observation. Final clothing, weaving methods, basket designs, architecture and cultural details should remain grounded in the source artwork and appropriate cultural research rather than combining unrelated African traditions.",
+    "attributionText": "Abike's day by Ursula Nafula, adapted by Penelope Smith and illustrated by Catherine Groenewald. © African Storybook Initiative 2014. Source: African Storybook Initiative. Licensed under Creative Commons Attribution 4.0 (CC BY 4.0). Adapted for animation by Panda Kids Club as Abike and the Pattern Bird; changes were made."
+  }
+}

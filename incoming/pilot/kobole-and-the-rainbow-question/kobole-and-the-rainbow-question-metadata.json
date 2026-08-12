@@ -1,0 +1,46 @@
+{
+  "name": "Kobole and the Rainbow Question",
+  "slug": "kobole-and-the-rainbow-question",
+  "shortDescription": "Kobole and Neno chase a rainbow across the landscape and discover how sunlight, water droplets, refraction and reflection create its brilliant colours.",
+  "longDescription": "After a rainstorm, Kobole sees coloured lines stretching across the sky and joins Neno in trying to understand what they are. As the children chase the rainbow and test different ideas, they explore sunlight, water droplets, refraction, reflection and the separation of white light into visible colours. By creating a miniature rainbow of their own, they discover why a rainbow appears opposite the Sun, why its colours follow a particular order and why its 'end' can never be reached.",
+  "language": "English",
+  "category": "learn",
+  "collection": "science-and-nature",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "science-and-nature"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Rainbow Visits Our Village",
+    "sourceName": "African Storybook Initiative",
+    "author": "Ursula Nafula",
+    "translator": "Ursula Nafula",
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/newviewer/index.php?bt=3&dual=false&id=11142",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Rainbow Visits Our Village by Ursula Nafula, translated by Ursula Nafula and illustrated by Wiehan de Jager. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

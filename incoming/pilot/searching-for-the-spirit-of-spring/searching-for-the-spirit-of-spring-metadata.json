@@ -1,0 +1,48 @@
+{
+  "name": "Searching for the Spirit of Spring",
+  "slug": "searching-for-the-spirit-of-spring",
+  "shortDescription": "When Ndlovu forgets how to celebrate Spring, brave Nkanyezi journeys across the land to gather gifts of colour, music and flavour that can awaken her village's joy again.",
+  "longDescription": "Winter has passed and Spring is approaching, but the village of Ndlovu remains strangely quiet. Cooking fires are cold, instruments sit unused and the people have forgotten the joy of celebration. After overhearing the elders' worries, young Nkanyezi decides to search for what her village has lost. With the elders' blessing and a woven travelling bag, she crosses hills, valleys, a great river, rocky country and wide plains. Her journey leads first to a dazzling Village of Colour, where living ribbons of paint move through woven patterns and a generous village mother gives her a special vessel of paint. In a vast forest she follows the sound of distant drums to the Bhubezi, whose joyful night-time gathering fills the trees with rhythm; their chief gives Nkanyezi a magical drum that can play a new song whenever it is struck. On the third day, a delicious aroma leads her to a Village of Flavour, where families cook together around steaming pots and a council of cooks gives her a secret spice blend. Nkanyezi returns to Ndlovu carrying the three gifts. As colour spreads through the village, the drum awakens its rhythm and fragrant food brings everyone together, flowers open, fires glow and the community begins to sing, dance, cook and celebrate once more. Nkanyezi discovers that the true spirit of Spring is not a creature to be found, but the courage, creativity, generosity, tradition and shared joy that people bring to one another.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Searching for the spirit of Spring",
+    "sourceName": "African Storybook / Book Dash",
+    "author": "Mosa Mahlaba",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Selina Masego Morulane",
+    "copyrightNotice": "© Mosa Mahlaba, Selina Morulane, Sibusiso Mkhwanazi, Book Dash 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://bookdash.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook / Book Dash edition. Changes were made, including expanding Ndlovu's loss of celebration into a visual opening in which the village remains muted, quiet and still despite the arrival of Spring; developing the journey into three distinct cinematic discoveries centred on colour, music and flavour; expanding the village of patterns and colours into a magical Village of Colour where paint behaves like living ribbons flowing through woven designs and opening flowers; developing the Bhubezi forest and village into a musical environment where giant tree roots, seed pods, drums, clapping and dancing build the story's rhythm; visually emphasising the chief's magical drum as a recurring gift that produces a new rhythm when played; expanding the food village into a communal Village of Flavour where fragrant steam forms playful temporary shapes above cooking pots; giving the three gifts a clear symbolic role, with paint representing creativity, the drum representing shared rhythm and the spices representing hospitality and care; expanding Nkanyezi's return so the gifts transform Ndlovu in three readable stages as colour spreads through the village, music awakens its instruments and fragrant cooking brings families together; adding a peaceful closing moment in which the flower Nkanyezi carried at the beginning finally opens; and strengthening the central message that the spirit of Spring is created through courage, generosity, creativity, tradition, food, music and community rather than being a literal magical creature.",
+    "attributionText": "Searching for the spirit of Spring, written by Mosa Mahlaba and illustrated by Selina Masego Morulane. © Mosa Mahlaba, Selina Morulane, Sibusiso Mkhwanazi, Book Dash 2015. Source edition: African Storybook; original source: Book Dash. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

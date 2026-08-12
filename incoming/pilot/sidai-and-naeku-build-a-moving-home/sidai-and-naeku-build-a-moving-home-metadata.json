@@ -1,0 +1,49 @@
+{
+  "name": "Sidai and Naeku Build a Moving Home",
+  "slug": "sidai-and-naeku-build-a-moving-home",
+  "shortDescription": "Sidai and Naeku help their family move, choose a safe new site and build a manyatta home that uses local materials and smart design to respond to wind, rain, heat and a mobile pastoral way of life.",
+  "longDescription": "When grazing near their existing manyatta becomes scarce, sisters Sidai and Naeku join their family as they prepare to move with their cattle to a new area in Samburu County. Rather than abandoning everything, the community carefully takes apart reusable roof sections, strong branches, bindings, mats and household materials, then transports useful pieces by camel and donkey. At the new site, the sisters compare the land, avoiding an exposed windy area and a drainage channel before choosing safer level ground near the livestock enclosure. They help mark the circular footprint, raise and tie the branch frame, weave thinner branches through the walls, attach grass thatching, apply natural mud-and-dung plaster and build the thorn enclosure. When strong wind arrives before the plaster is fully dry, Naeku notices that a loose roof binding—not a lack of heavy branches—is causing part of the frame to shift, and the family reinforces it together. Rain then demonstrates how the low thatched roof helps direct water away from the walls, while later scenes show the insulated hut staying cooler in the heat and warmer during a chilly evening. The story also acknowledges that mobility can make regular schooling difficult, ending with continued learning support rather than pretending the challenge is completely solved. Designed for young learners, Sidai and Naeku Build a Moving Home explores practical engineering, climate-responsive architecture, reuse of materials, mobile pastoralism, cooperation and the idea that good design should respond to people, place and environment.",
+  "language": "English",
+  "category": "learn",
+  "collection": "environment-and-sustainability",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "environment-and-sustainability"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "We live in a manyatta",
+    "sourceName": "African Storybook Initiative",
+    "author": "Nina Orange and Ursula Nafula",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Arthur Makali",
+    "assurer": null,
+    "copyrightNotice": "© African Storybook Initiative 2023",
+    "licenseName": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://www.africanstorybook.org/newviewer/index.php?bt=1&dual=false&id=47022",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook title We live in a manyatta and retitled Sidai and Naeku Build a Moving Home. Changes were made to transform the source's informational explanation of a manyatta into a child-led building story while preserving its core educational content about mobile pastoralism, cattle grazing, thorn fencing, local building materials, branch-frame construction, woven wall supports, grass thatching, natural plaster, low wind-resistant roofs, insulation, dismantling and reusing structures, transporting materials by camel or donkey and the effect of mobility on schooling. The adaptation adds a clear reason for moving when nearby grazing becomes limited; shows the community dismantling and transporting reusable roof sections, branches, bindings, mats and household materials; adds a site-selection sequence in which Sidai and Naeku compare wind exposure, drainage risk, level ground and proximity to the livestock enclosure; expands construction into visible engineering stages including marking the circular footprint, tying the roof-and-wall frame, weaving thinner branches, attaching thatch, applying mud-and-dung plaster, organising the doorway and completing the thorn enclosure; introduces a mischievous young goat as a recurring comic complication; adds a weather test in which strong wind exposes a loose roof binding and Naeku identifies the correct structural problem before the family reinforces it; uses the following rain, hot midday conditions and a cooler evening to demonstrate water shedding and insulation visually; and expands the ending to acknowledge the schooling challenges associated with mobility while showing continued learning support through borrowed books or a travelling teacher or library. The adaptation is intended to present Samburu architectural knowledge as practical, contemporary and environmentally responsive, with final building methods, clothing, language, pronunciation, livestock practices, family roles, movement routes and school experiences requiring consultation with Samburu cultural advisers.",
+    "attributionText": "We live in a manyatta by Nina Orange and Ursula Nafula, illustrated by Arthur Makali. © African Storybook Initiative 2023. Source: African Storybook Initiative. Licensed under Creative Commons Attribution 4.0 (CC BY 4.0). Adapted for animation by Panda Kids Club as Sidai and Naeku Build a Moving Home; changes were made."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Dungdit and the Giant Garden",
+  "slug": "dungdit-and-the-giant-garden",
+  "shortDescription": "Dungdit’s enormous appetite leads him on a colourful journey through fruits, vegetables, grains and other foods, inspiring a giant community garden built on variety, planning and sharing.",
+  "longDescription": "Dungdit is a friendly giant who works hard but is always hungry. With Nyakuoth and the village growers, he discovers that the answer is not simply more food, but a wider variety of foods grown and prepared thoughtfully. After learning to take responsibility for food he once took from others, Dungdit helps plan, plant and care for a giant community garden filled with millet, vegetables, fruits, beans, roots and other nourishing foods. Together, the community learns about growing food, balanced variety, cooperation and sharing knowledge responsibly.",
+  "language": "English",
+  "category": "learn",
+  "collection": "food-and-nutrition",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "food-and-nutrition"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "A Giant Like No Other",
+    "sourceName": "African Storybook Initiative",
+    "author": "Both Khor Nyuon",
+    "translator": "Both Khor Nyuon",
+    "illustrator": "Salim Kasamba",
+    "copyrightNotice": "© African Storybook Initiative 2022",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "A Giant Like No Other by Both Khor Nyuon, translated by Both Khor Nyuon, illustrated by Salim Kasamba. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Nita’s Upside-Down Day",
+  "slug": "nitas-upside-down-day",
+  "shortDescription": "When Nita feels as if she does not fit in, her whole playground seems to turn upside down. With Navi’s patient friendship, she discovers that everyone experiences the world in their own way.",
+  "longDescription": "Nita often hangs upside down, hiding behind her long braids because she feels different from everyone else. When Navi notices, he does not rush her or try to change her. Instead, he takes her to a lookout where they watch children with different appearances, personalities, abilities and interests enjoying the same playground in their own ways. In this animated adaptation, Nita’s feelings reshape the world around her: gravity tilts, playground spaces rotate and glowing thought ribbons appear when she worries that she does not belong. When she struggles to join a game, Navi helps the other children slow down, explain the rules and make room for her. Nita does not become a different person. She keeps her quietness, her long hair, her way of speaking and her unusual point of view, but she gains something important — connection. Designed for young children, Nita’s Upside-Down Day supports social-emotional learning, empathy, inclusion, self-acceptance, communication and respect for different ways of participating.",
+  "language": "English",
+  "category": "learn",
+  "collection": "social-emotional-learning",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "social-emotional-learning"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Why Is Nita Upside Down?",
+    "sourceName": "African Storybook",
+    "author": "Roxana Bouwer",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Sarah Bouwer",
+    "copyrightNotice": "© Roxana Bouwer, Sarah Bouwer, Emma Hearne and Book Dash 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://bookdash.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition of Why Is Nita Upside Down? and retitled Nita’s Upside-Down Day. Changes were made to expand the original picture-book story into a cinematic social-emotional learning narrative while preserving its central message that human differences are normal and that friendship can help a child feel less alone. The adaptation develops Nita’s upside-down viewpoint into a recurring visual metaphor in which the playground tilts and rotates when she expects rejection; introduces glowing thought ribbons to represent private beliefs and self-consciousness; expands Navi’s role as a patient friend who gives Nita time to speak without finishing her sentences; broadens the playground ensemble to include children with different appearances, personalities, abilities, communication styles and interests; and adds a shared-responsibility inclusion scene in which other children explain a game more clearly and give Nita time to participate. The ending does not present Nita as becoming 'normal' or being cured. She retains her quietness, long braids, way of speaking, unusual viewpoint and occasional need for solitude, while gaining connection, support and confidence to participate on her own terms.",
+    "attributionText": "Why Is Nita Upside Down?, written by Roxana Bouwer and illustrated by Sarah Bouwer. © Roxana Bouwer, Sarah Bouwer, Emma Hearne and Book Dash 2015. Source: African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club as Nita’s Upside-Down Day; changes were made."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Hare and Hyena’s Harvest Puzzle",
+  "slug": "hare-and-hyenas-harvest-puzzle",
+  "shortDescription": "When clever Hare and hardworking Hyena divide their harvest into what grows above and below the soil, two very different crops turn their simple farming agreement into a funny puzzle about plants, fairness and trust.",
+  "longDescription": "Hare and Hyena decide to farm together, but their partnership is unequal from the beginning. Hyena clears, tills, plants and weeds while Hare proudly calls himself the farm manager and insists that chasing birds is the most important job. Their first crop is maize. When harvest time arrives, Hare proposes a simple division: he will take everything that grows above the soil, while Hyena will receive everything below it. Hare carries away the maize cobs, leaving Hyena to dig through the field and discover only roots. Determined not to be fooled again, Hyena chooses everything above the ground during the next season. Hare agrees and suggests planting potatoes. This time they work together, but when harvest day comes Hyena receives only the leafy tops while Hare digs up the valuable underground tubers. In the Panda Kids Club adaptation, the story continues into a third season. Hare and Hyena ask an experienced farmer to help them make a fair agreement based on work contributed, seeds, water, risk and the total harvest. They plant a mixed garden of maize, potatoes, carrots, pumpkins, beans and leafy vegetables, learning which parts of each plant people eat before dividing anything. Hare and Hyena’s Harvest Puzzle combines agricultural science with trickster comedy to teach children how crops grow, why roots, stems, leaves, tubers and fruits are different, and why fair agreements must recognise both knowledge and labour.",
+  "language": "English",
+  "category": "learn",
+  "collection": "environment-and-sustainability",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "environment-and-sustainability"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Hare and Hyena",
+    "sourceName": "African Storybook Initiative",
+    "author": "Mutugi Kamundi",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Rob Owen",
+    "assurer": null,
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook title Hare and Hyena and retitled Hare and Hyena’s Harvest Puzzle. The source story follows Hare and Hyena as friends who decide to farm together. Hare assigns himself the job of guarding the maize from birds while Hyena tills, plants and weeds the field. At harvest time Hare chooses everything growing above the soil and gives Hyena everything below it, taking the maize while Hyena finds only roots. During the next season Hyena reverses the agreement and chooses everything above the soil, but Hare suggests planting potatoes, allowing Hare to harvest the edible underground tubers while Hyena receives only the leaves. The original story ends with Hyena angrily chasing Hare and the two no longer being friends. The Panda Kids Club adaptation expands the agricultural learning content and gives the story a constructive third-season resolution while preserving the original trickster structure and lesson about unfair agreements. Changes include making Hare a theatrical self-appointed farm manager with diagrams, a measuring string, notebook and crooked ruler; showing the farming process in greater educational detail through soil preparation, seed spacing, watering, germination, weeding, flowering, pollination and harvest; using clear above-ground and underground visual cross-sections so children can compare maize roots with potato tubers; distinguishing roots, stems, leaves, tubers, fruits and other edible plant parts; showing Hyena contributing most of the first season’s labour and requiring shared work during the second season; adding a third season in which Hare and Hyena seek help to create a fair agreement based on labour, seeds, water, crop risk and the total harvest; expanding the final garden to include maize, potatoes, carrots, pumpkins, beans and leafy vegetables; and replacing the source’s final revenge-only ending with a lesson about rebuilding trust through clearer agreements, shared responsibility and agricultural knowledge. The visual adaptation uses premium stylised 3D animal CGI, graphic reaction comedy, expressive farm-scale cinematography and colourful underground soil cross-sections to make plant science visible without interrupting the story.",
+    "attributionText": "Hare and Hyena by Mutugi Kamundi, illustrated by Rob Owen. © African Storybook Initiative 2014. Source: African Storybook Initiative. Licensed under Creative Commons Attribution 4.0 (CC BY 4.0). Adapted for animation by Panda Kids Club as Hare and Hyena’s Harvest Puzzle; changes were made."
+  }
+}

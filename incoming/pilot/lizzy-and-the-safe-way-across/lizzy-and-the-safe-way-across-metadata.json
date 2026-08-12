@@ -1,0 +1,46 @@
+{
+  "name": "Lizzy and the Safe Way Across",
+  "slug": "lizzy-and-the-safe-way-across",
+  "shortDescription": "Lizzy learns how to cross a busy road safely and helps her community work toward a pedestrian crossing that protects children.",
+  "longDescription": "Lizzy lives beside a busy road and has learned to stop, check for traffic and cross only when it is safe. After Mosa runs into the road without checking and is injured, Lizzy alerts her mother and sees how quickly a dangerous crossing can change a family’s day. The accident leads to road-safety lessons at local schools, while Lizzy and her community help identify a safer place to cross and campaign for a pedestrian crossing. The story teaches careful pedestrian behaviour while showing that safer roads also depend on communities creating infrastructure that protects children.",
+  "language": "English",
+  "category": "learn",
+  "collection": "safety-and-life-skills",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "safety-and-life-skills"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Children Crossing!",
+    "sourceName": "African Storybook Initiative",
+    "author": "Jacqueline Jacobs",
+    "translator": null,
+    "illustrator": "Jacqueline Jacobs",
+    "copyrightNotice": "© African Storybook Initiative 2020",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Children Crossing! by Jacqueline Jacobs, illustrated by Jacqueline Jacobs. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

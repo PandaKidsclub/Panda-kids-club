@@ -1,0 +1,46 @@
+{
+  "name": "The Rain Bird",
+  "slug": "the-rain-bird",
+  "shortDescription": "Ketti follows the wisdom her grandmother taught her and discovers that courage, gratitude and care for nature can bring hope back to her drought-stricken village.",
+  "longDescription": "At the edge of a great forest in Gabon, a magical blue bird has long brought rain to Ketti's village when the community honours her with food and music. When the villagers grow careless and stop visiting the Rain Bird, the rains disappear and the land begins to dry. Remembering the tradition her grandmother taught her, Ketti enters the forest, offers what she has and sings for the bird. Even when the adults doubt her and danger follows, Ketti chooses courage, compassion and responsibility. With her grandmother's thumb piano and a determined heart, she helps restore the Rain Bird's trust, the rain and the life of the village.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "The Rain Bird",
+    "sourceName": "African Storybook",
+    "author": "Joanne Bloch (retold folktale)",
+    "translator": null,
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© Nal’Ibali and Praesa 2013",
+    "licenseName": "CC BY-NC 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "The Rain Bird by Joanne Bloch (retold folktale), adapted by Nal'ibali, illustrated by Wiehan de Jager. © Nal’Ibali and Praesa 2013. Source: African Storybook; original source: Nal'ibali. Licensed under CC BY-NC 3.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

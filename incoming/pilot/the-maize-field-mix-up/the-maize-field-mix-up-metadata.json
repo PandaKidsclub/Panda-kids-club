@@ -1,0 +1,48 @@
+{
+  "name": "The Maize Field Mix-Up",
+  "slug": "the-maize-field-mix-up",
+  "shortDescription": "Two thieves sneak into the same maize field on the same dark night, accidentally terrify each other with every crack, crunch and moving shadow, and run away leaving the farmer's maize and bicycle behind.",
+  "longDescription": "On a moonless night, two thieves independently choose the same maize field for their secret plan. Neither knows the other is there. Thief One, wearing a black hat and carrying a large woven sack, slips between the maize stalks and quietly begins collecting cobs. Thief Two arrives from the opposite side, leaves his slightly rusty bicycle near the fence and creeps into the field in an oversized coat. In the darkness, every tiny sound becomes suspicious. A snapped maize cob makes one thief freeze. A footstep on dry leaves makes the other stop in terror. A black hat appearing above the maize looks like a strange creature, while a bulging sack moving through the plants resembles a ghostly shape. Each thief unknowingly ruins the other's plan, triggering a chain of silent misunderstandings involving rustling leaves, the scarecrow, the bicycle bell and loose maize rolling through the field. By the time the two men finally collide face to face, they have frightened themselves so badly that both flee in opposite directions. One abandons the stolen maize and the other abandons his bicycle. At sunrise, the farmer discovers what happened, recovers the maize and uses the bicycle to carry it home before taking the abandoned property to the appropriate local community office or police point. Told largely without dialogue, the story uses visual comedy, sound effects and careful cause-and-effect to show how dishonesty, fear and imagination can turn a simple bad decision into complete chaos.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Two Thieves",
+    "sourceName": "African Storybook Initiative",
+    "author": "Candiru Enzikuru Mary",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Marion Drew",
+    "copyrightNotice": "© African Storybook Initiative 2016",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/newviewer/index.php?bt=1&dual=false&id=18773",
+    "originalSourceUrl": null,
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition. Changes were made, including retitling the adaptation as The Maize Field Mix-Up; expanding the original eight-page story into a fuller cinematic stop-motion comedy; distinguishing the two thieves through an original black-hat-and-sack design for Thief One and an oversized-coat-and-bicycle design for Thief Two; restructuring the action as parallel cause-and-effect in which each thief unknowingly creates the sounds, shadows and movements that frighten the other; adding visual misunderstandings involving cracking maize, dry leaves, moving hats, a bulging sack, a scarecrow, loose maize and a ringing bicycle bell; keeping dialogue minimal so eyes, pauses, physical reactions and sound effects carry most of the comedy; delaying the face-to-face collision so both thieves have already terrified themselves before the payoff; developing the maize field, farmhouse, fence, scarecrow, lantern light and bicycle as recurring handcrafted stop-motion elements; shifting the nocturnal sequence into a blue-black moonlit palette with small warm light pools before a golden sunrise ending; and clarifying the ethical resolution by having the farmer recover the maize, use the abandoned bicycle temporarily to transport it home, and then take the abandoned property to the appropriate local community office or police point rather than treating theft as rewarding anyone.",
+    "attributionText": "Two Thieves, written by Candiru Enzikuru Mary and illustrated by Marion Drew. © African Storybook Initiative 2016. Source edition: African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

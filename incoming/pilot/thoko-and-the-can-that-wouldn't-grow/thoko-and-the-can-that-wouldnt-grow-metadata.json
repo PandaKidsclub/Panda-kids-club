@@ -1,0 +1,46 @@
+{
+  "name": "Thoko and the Can That Wouldn’t Grow",
+  "slug": "thoko-and-the-can-that-wouldnt-grow",
+  "shortDescription": "Thoko learns why litter does not belong in farmland when one discarded can sparks an unforgettable lesson about crops, waste, recycling and caring for the land.",
+  "longDescription": "After helping in the fields, Thoko rides home with her father on an ox wagon carrying maize. When she throws an empty drink can into a field, her father gently asks what she thinks will grow from it. Thoko imagines the can taking root and becoming an enormous tree made from rubbish, helping her understand the difference between living crops and manufactured waste. She retrieves the can, joins other children in a supervised clean-up, and learns how waste can be sorted for reuse, recycling, composting and safe disposal. The cleaned field is planted again, showing how small responsible choices can protect food-producing land, animals, soil and water.",
+  "language": "English",
+  "category": "learn",
+  "collection": "environment-and-sustainability",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "environment-and-sustainability"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Thoko’s FantaPine Seed",
+    "sourceName": "African Storybook Initiative",
+    "author": "Khothatso Ranoosi and Marion Drew",
+    "translator": null,
+    "illustrator": "Paleng Children’s Centre",
+    "copyrightNotice": "© 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/reader.php?a=1&d=0&id=15132",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made, including modernised waste-management guidance, a generic beverage can, supervised safe clean-up practices, and a revised ending focused on sorting, reuse, recycling, composting and approved waste collection.",
+    "attributionText": "Thoko’s FantaPine Seed by Khothatso Ranoosi and Marion Drew, illustrated by Paleng Children’s Centre. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

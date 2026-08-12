@@ -1,0 +1,46 @@
+{
+  "name": "Ant and Elephant",
+  "slug": "ant-and-elephant",
+  "shortDescription": "The animals choose tiny Ant as their king, but an elephant prince refuses to respect smaller creatures.",
+  "longDescription": "When the animals elect Ant as their new king, the powerful prince of elephants ignores the ants and their territory. King Ant teaches him that everyone deserves respect, no matter how small.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Ant and Elephant",
+    "sourceName": "Ulwazi Lwethu / African Storybook",
+    "author": "Sicelo Hlamandana",
+    "translator": "Sicelo Hlamandana",
+    "illustrator": "Simangaliso Sibiya & Fezile Twala",
+    "copyrightNotice": "© Zenex Foundation - Saide 2023",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.ulwazilwethu.org.za/ant-and-elephant",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Ant and Elephant by Sicelo Hlamandana, illustrated by Simangaliso Sibiya and Fezile Twala. Ulwazi Lwethu / African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

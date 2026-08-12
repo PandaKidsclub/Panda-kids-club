@@ -1,0 +1,44 @@
+{
+  "releaseId": "coming-soon-2026-12",
+  "releaseAt": "2026-12-08T09:00:00+02:00",
+  "upcomingProgrammeSlugs": [
+    "monthly-learn-programme-01",
+    "monthly-story-programme-01",
+    "monthly-hero-programme-01",
+    "monthly-learn-programme-02",
+    "monthly-story-programme-02",
+    "monthly-hero-programme-02",
+    "monthly-learn-programme-03",
+    "monthly-story-programme-03",
+    "monthly-hero-programme-03",
+    "monthly-learn-programme-04",
+    "monthly-story-programme-04",
+    "monthly-hero-programme-04",
+    "monthly-learn-programme-05",
+    "monthly-story-programme-05",
+    "monthly-hero-programme-05"
+  ],
+  "groups": {
+    "learning": [
+      "monthly-learn-programme-01",
+      "monthly-learn-programme-02",
+      "monthly-learn-programme-03",
+      "monthly-learn-programme-04",
+      "monthly-learn-programme-05"
+    ],
+    "storytime": [
+      "monthly-story-programme-01",
+      "monthly-story-programme-02",
+      "monthly-story-programme-03",
+      "monthly-story-programme-04",
+      "monthly-story-programme-05"
+    ],
+    "heroesFolktales": [
+      "monthly-hero-programme-01",
+      "monthly-hero-programme-02",
+      "monthly-hero-programme-03",
+      "monthly-hero-programme-04",
+      "monthly-hero-programme-05"
+    ]
+  }
+}

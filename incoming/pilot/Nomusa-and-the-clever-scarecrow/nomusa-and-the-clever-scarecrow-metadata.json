@@ -1,0 +1,46 @@
+{
+  "name": "Nomusa and the Clever Scarecrow",
+  "slug": "nomusa-and-the-clever-scarecrow",
+  "shortDescription": "Nomusa invents a clever scarecrow to protect her grandmother’s maize field, giving her more time for school while keeping birds and monkeys away from the crops.",
+  "longDescription": "Nomusa loves school, but every afternoon she must help protect her grandmother’s maize field from hungry birds and monkeys. When the daily chore leaves too little time for homework, Nomusa comes up with a clever solution: a handmade scarecrow. After the animals begin testing her invention, she improves it with moving woven arms, rattling seed pods, reflective tin pieces, fluttering fabric and a hollow calabash. Her idea helps protect the crops, inspires the village and shows how creativity can solve everyday problems while helping children make time for learning.",
+  "language": "English",
+  "category": "learn",
+  "collection": "problem-solving-and-invention",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "problem-solving-and-invention"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Clever Nomusa",
+    "sourceName": "African Storybook Initiative",
+    "author": "Zandile Malaza",
+    "translator": "Zandile Malaza",
+    "illustrator": "Simon Mokoena",
+    "copyrightNotice": "© Zenex Foundation - Saide 2026 (Updated Edition)",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Clever Nomusa by Zandile Malaza, translated by Zandile Malaza and illustrated by Simon Mokoena. African Storybook Initiative. © Zenex Foundation - Saide 2026 (Updated Edition). Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Tito and the fireflies",
+  "slug": "tito-and-the-fireflies",
+  "shortDescription": "Tito and his friends discover the magic of fireflies during a night outdoors.",
+  "longDescription": "When Tito and his friends encounter fireflies at night, their excitement becomes a chance to learn a few facts about these fascinating insects.",
+  "language": "English",
+  "category": "learn",
+  "collection": "more-learning-titles",
+  "badges": [],
+  "isFeatured": false,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "more-learning-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Tito and the fireflies",
+    "sourceName": "Ulwazi Lwethu / African Storybook",
+    "author": "Cebo Solombela",
+    "translator": "Phumelele Ndadane; Sheila Mandlate",
+    "illustrator": "Tebogo Boikanyo Matshana",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.ulwazilwethu.org.za/tito-and-fireflies",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Tito and the fireflies by Cebo Solombela, illustrated by Tebogo Boikanyo Matshana. Ulwazi Lwethu / African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

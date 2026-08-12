@@ -1,0 +1,46 @@
+{
+  "name": "The Wax Children and the Sun Bird",
+  "slug": "the-wax-children-and-the-sun-bird",
+  "shortDescription": "A curious wax boy longs to see the daytime world, and when sunlight changes him forever, his loving siblings transform his softened wax into a magnificent golden bird that can carry his voice into the morning.",
+  "longDescription": "In a cool clay home, five unusual siblings begin their day only after sunset. Made entirely of wax, they glow softly beneath the moon, complete their chores at night, play shadow games and stay far away from fire and direct sunlight. But one curious boy cannot stop wondering about sunrise, butterflies, warm grass and the birds that sing beneath the daytime sky. One morning, his longing becomes too strong and he steps beyond the safety of the shade. As the sun warms his wax body, his siblings rush to protect him, but his form settles gently into a glowing pool of wax. Refusing to give up, the four siblings work together to shape the wax into a beautiful golden bird. The youngest places a tiny glowing seed inside its chest, and before dawn the family carries the bird to a high rocky hill. When the first ray of sunlight touches it, the seed heart awakens, golden light travels through its patterned feathers and the Sun Bird takes flight. From then on, the bird returns each morning to sing outside the shaded family home, allowing the siblings to experience the daytime world through their brother's song.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Children of wax",
+    "sourceName": "African Storybook Initiative",
+    "author": "Southern African Folktale",
+    "translator": null,
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition. Changes were made, including expanding the family’s nocturnal life with moonlit chores, shadow games and a cool house designed around the children’s wax bodies; developing the curious boy’s fascination with sunrise, butterflies, birds and the daytime world; presenting his transformation in a gentle, child-friendly way rather than as a frightening melting scene; giving each sibling an active role in reshaping his wax into a bird; adding a glowing seed heart and family patterns pressed into the bird’s feathers; introducing a protective cooling cloth and reflective canopy; expanding the journey to the hilltop; and extending the ending so the Sun Bird returns each morning to sing outside the shaded home, allowing the family to experience the day through their brother’s voice.",
+    "attributionText": "Children of wax, a Southern African Folktale, illustrated by Wiehan de Jager. © African Storybook Initiative 2014. Source edition: African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

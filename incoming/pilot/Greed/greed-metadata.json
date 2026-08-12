@@ -1,0 +1,46 @@
+{
+  "name": "Greed",
+  "slug": "greed",
+  "shortDescription": "Vusi learns that wanting everything for himself can have uncomfortable consequences after he secretly bites into the family’s fruit.",
+  "longDescription": "Grandmother returns from the market with a basket full of delicious fruit. Vusi cannot resist and secretly takes bites from the fruit, but the evidence soon gives him away. After confessing, he learns a memorable lesson about greed, honesty, waiting his turn and sharing fairly with others.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Greed",
+    "sourceName": "African Storybook Initiative and Molteno Institute",
+    "author": "Adelheid Marie Bwire",
+    "translator": "Ursula Nafula",
+    "illustrator": "Melany Pietersen",
+    "copyrightNotice": "© African Storybook Initiative and Molteno Institute 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Greed by Adelheid Marie Bwire, translated by Ursula Nafula, illustrated by Melany Pietersen. African Storybook Initiative and Molteno Institute. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Tselane and the Singing Giant",
+  "slug": "tselane-and-the-singing-giant",
+  "shortDescription": "Tselane learns to trust more than a familiar song when a clever giant copies her mother's voice and tries to trick her into opening the door.",
+  "longDescription": "After her father's death, Tselane stays behind at the old family home while her mother moves to a new village. They create a special song so Tselane knows when it is safe to open the door. A giant secretly learns the song, changes his voice and deceives her, but Tselane's mother follows his trail, outsmarts him and rescues her daughter. In the adapted ending, Tselane discovers that moving to a new home does not mean leaving her father's memory behind.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Tselane and the giant",
+    "sourceName": "African Storybook Initiative",
+    "author": "Lorato Trok",
+    "illustrator": "Catherine Groenewald",
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Tselane and the giant by Lorato Trok, illustrated by Catherine Groenewald. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

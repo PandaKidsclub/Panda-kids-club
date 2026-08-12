@@ -1,0 +1,46 @@
+{
+  "name": "The Rat Prince and the Greatest in the World",
+  "slug": "the-rat-prince-and-the-greatest-in-the-world",
+  "shortDescription": "A proud Rat King sends his prince on a spectacular journey through fog, wind and mountain to discover who is truly the greatest—and learns that every kind of strength has its limits.",
+  "longDescription": "The Rat King is certain that rats are the greatest creatures in the world, so he insists that his son must marry into the greatest possible family. But the thoughtful Rat Prince secretly joins the royal elders on their search because he wants to understand what greatness really means. Their journey carries them from the Creator to a mysterious living Fog, from Fog to a powerful Wind, and from Wind to an ancient Mountain. Each seems unbeatable until another kind of strength proves otherwise. Deep inside the Mountain, the travellers finally meet the Bush Rat family and the clever Bush Rat’s daughter, a young tunnel engineer who designs ventilation shafts, water channels, reinforced passages, emergency exits and seed-storage chambers. When a sudden downpour threatens the Rat King’s palace, her drainage ideas help protect the kingdom. The prince comes to admire her intelligence and character, and the two choose one another for themselves. The Rat King finally understands that greatness is not about having no weakness—it is about recognising which strengths are needed for each problem.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Rat King's Son",
+    "sourceName": "African Storybook Initiative",
+    "author": "Merga Debelo and Elizabeth Laird",
+    "translator": null,
+    "illustrator": "Salim Kasamba",
+    "copyrightNotice": "© African Storybook Initiative 2016",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition, originally sourced from Ethiopian Folktales. Changes were made, including giving the Rat Prince an active role in the journey, allowing every potential bride to make her own decision, developing Bush Rat’s daughter into an independent young engineer and tunnel designer, adding comic royal advisers and repeated returns to the boastful Rat King, expanding the journey through sky, fog, wind, mountain and underground environments, adding a palace-flood problem solved through drainage engineering, and strengthening the central message that there is no single greatest power because different strengths matter in different situations.",
+    "attributionText": "Rat King's Son by Merga Debelo and Elizabeth Laird, illustrated by Salim Kasamba. © African Storybook Initiative 2016. Original source: Ethiopian Folktales. Source edition: African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

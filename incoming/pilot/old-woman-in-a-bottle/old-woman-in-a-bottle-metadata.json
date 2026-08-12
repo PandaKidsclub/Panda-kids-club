@@ -1,0 +1,46 @@
+{
+  "name": "Old Woman in a Bottle",
+  "slug": "old-woman-in-a-bottle",
+  "shortDescription": "A constantly complaining old woman is given magical chances to improve her home, but each new blessing only gives her something else to complain about.",
+  "longDescription": "An old woman lives alone inside a bottle-shaped house and complains about it constantly. When a kind fairy hears her, she teaches the woman a magical instruction: clap her hands twice and turn around three times. The bottle becomes a small house, but the woman soon decides it is too small. The fairy transforms it into a much larger house, yet the woman complains that it is dark and dirty. After one final clap-and-spin transformation, she finds herself back inside the bottle, learning too late that she failed to recognise the blessings she had been given.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Old woman in a bottle",
+    "sourceName": "African Storybook Initiative",
+    "author": "Northern Cape Teachers’ Workshop 2016",
+    "translator": "Lorato Trok",
+    "illustrator": "Abraham Muzee",
+    "copyrightNotice": "© African Storybook Initiative 2017",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Old woman in a bottle by Northern Cape Teachers’ Workshop 2016, translated by Lorato Trok and illustrated by Abraham Muzee. © African Storybook Initiative 2017. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

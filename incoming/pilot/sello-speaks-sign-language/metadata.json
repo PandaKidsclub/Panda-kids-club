@@ -1,0 +1,46 @@
+{
+  "name": "Sello speaks Sign Language",
+  "slug": "sello-speaks-sign-language",
+  "shortDescription": "Sello is Deaf and uses Sign Language to communicate with her sister, family and people around her.",
+  "longDescription": "Through an ordinary day at home, on the road and at the shops, Sello and her sister show how Sign Language helps them greet, learn, work together and stay safe. When someone does not understand Sign Language, Sello finds another way to communicate.",
+  "language": "English",
+  "category": "learn",
+  "collection": "more-learning-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "more-learning-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Sello speaks Sign Language",
+    "sourceName": "Ulwazi Lwethu / African Storybook",
+    "author": "Tebogo Matshana",
+    "translator": "Tebogo Matshana",
+    "illustrator": "Tebogo Matshana",
+    "copyrightNotice": "© Zenex Foundation - Saide 2026 (Updated Edition)",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.ulwazilwethu.org.za/sello-speaks-sign-language",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Sello speaks Sign Language by Tebogo Matshana, illustrated by Tebogo Matshana. Ulwazi Lwethu / African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

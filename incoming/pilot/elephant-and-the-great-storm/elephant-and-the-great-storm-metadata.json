@@ -1,0 +1,48 @@
+{
+  "name": "Elephant and the Great Storm",
+  "slug": "elephant-and-the-great-storm",
+  "shortDescription": "Proud Elephant believes nothing in the valley is stronger than he is—until a mysterious Spirit challenges him to face the power of rain, wind and thunder.",
+  "longDescription": "Every animal in the valley knows that Elephant is strong. He moves fallen branches, reaches fruit from the tallest trees and clears heavy rocks with ease. After hearing so much praise, Elephant boldly declares that nothing in the world can be stronger than he is. A strange breeze answers him, and the weather slowly gathers into a mysterious Spirit made of cloud, mist, rain and wind. Elephant proposes contests of lifting logs and moving boulders, but the Spirit chooses a different challenge: can Elephant stop the rain that falls from every part of the sky? Elephant tries everything he can think of, from sheltering beneath a giant leaf to trumpeting at the clouds, blowing the rain away with his trunk and squeezing under a tree far too small for him. Nothing works. When the Spirit finally demonstrates the scale of thunder, Elephant jumps, slips through the mud and ends up with his tusks safely stuck in a soft riverbank. The smaller animals help him free himself, and Elephant admits that being the biggest does not mean being greater than everything. The Spirit also learns that power should not be used merely to frighten. When rising storm water blocks the animals' path, Elephant uses his strength to clear the channel while the Spirit softens the rain and guides the clouds away. From then on, Elephant treats storms with respect—although his idea of hiding beneath a tiny tree still makes his friends laugh.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Elephant and the spirit",
+    "sourceName": "African Storybook",
+    "author": "Ann Logialan",
+    "adapter": null,
+    "translator": "John Ng'asike",
+    "illustrator": "Jacob Kono",
+    "copyrightNotice": "© African Storybook Initiative 2017",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition. Changes were made, including retitling the adaptation Elephant and the Great Storm; expanding the brief contest into a fuller pride-and-humility story in which Elephant first demonstrates his strength by helping smaller animals in the valley; adding a recurring animal ensemble of an antelope, guineafowl, hare and young warthog; developing the Spirit as a recognisable but shape-changing force of cloud, mist, rain, wind and internal lightning rather than a conventional solid magical character; adding Elephant's proposed strength challenges with logs, rocks and river crossing to clarify the contrast between physical strength and the power of weather; expanding Elephant's attempt to stop the rain into a sequence of visual comedy involving a giant leaf, trumpeting at the clouds, blowing with his trunk, using his ears and sheltering beneath a tree that is much too small; presenting the thunder climax as a demonstration of nature's scale rather than a malicious attack; showing Elephant slipping safely in soft mud and becoming stuck by his tusks without injury; adding a cooperative rescue in which the smaller animals help free Elephant; strengthening the resolution so Elephant learns that being the biggest does not mean being greater than everything while the Spirit learns that power should not be used merely to frighten; adding a final storm-water problem in which Elephant uses his strength to clear a blocked channel and help the smaller animals reach safety while the Spirit softens the rain; and ending with a comic callback in which Elephant squeezes beneath a tiny tree and insists that he is not hiding but is carefully respecting the weather.",
+    "attributionText": "Elephant and the spirit, written by Ann Logialan, translated into English by John Ng'asike and illustrated by Jacob Kono. © African Storybook Initiative 2017. Source: African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club as Elephant and the Great Storm; changes were made."
+  }
+}

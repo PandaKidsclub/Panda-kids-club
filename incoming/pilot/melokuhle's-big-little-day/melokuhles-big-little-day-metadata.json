@@ -1,0 +1,46 @@
+{
+  "name": "Melokuhle’s Big Little Day",
+  "slug": "melokuhles-big-little-day",
+  "shortDescription": "Melokuhle spends a warm day at her early-childhood play centre, learning through care, play, stories, sibling connection and the sounds of many languages.",
+  "longDescription": "Six-month-old Melokuhle arrives at a small early-childhood play centre with her four-year-old brother, Asante. Through feeding, responsive care, safe sensory play, colour sorting, blocks, drawing, sharing, clean-up and group storytelling, the children learn by watching, listening, talking and doing. Asante has one special goal: to make his baby sister laugh. By the end of the day, he discovers that the best way to connect with Melokuhle is not to perform more loudly, but to pay attention to what she is showing him. The story celebrates early learning, sibling affection, multilingual communication and the value of isiXhosa, Sesotho and English in a warm South African play-centre environment.",
+  "language": "English",
+  "category": "learn",
+  "collection": "early-learning-and-language",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "early-learning-and-language"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "A day in the life of Melokuhle",
+    "sourceName": "African Storybook Initiative",
+    "author": "Nolulamo Mnyaka-Mngeni and Sheila Drew",
+    "translator": null,
+    "illustrator": "Rob Owen",
+    "copyrightNotice": "© African Storybook Initiative 2021",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "A day in the life of Melokuhle by Nolulamo Mnyaka-Mngeni and Sheila Drew, illustrated by Rob Owen. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

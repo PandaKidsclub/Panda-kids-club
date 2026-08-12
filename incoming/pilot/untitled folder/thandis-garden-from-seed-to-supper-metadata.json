@@ -1,0 +1,49 @@
+{
+  "name": "Thandi’s Garden: From Seed to Supper",
+  "slug": "thandis-garden-from-seed-to-supper",
+  "shortDescription": "Thandi discovers that food does not begin on a shop shelf when she and her mother prepare a spring garden, plant different crops, care for the soil and helpful insects, solve watering challenges, harvest their vegetables and turn the garden’s bounty into a shared community meal.",
+  "longDescription": "Thandi is eating tomato, pumpkin and potato when she wonders whether all food begins in a shop. Her mother answers by taking her outside to their garden and inviting her to find out for herself. Together they loosen compacted soil, remove litter, add compost and prepare planting beds for spring. Thandi learns that different foods begin in different ways: pumpkins can begin as seeds, tomatoes and cauliflower can be planted as seedlings, onions can begin from sets or bulbs, and potatoes grow from stem tubers rather than ordinary seeds. After watering, the story dives beneath the soil into a hidden miniature world where seeds absorb water, seed coats split, roots grow downward, shoots reach toward sunlight and worms move through healthy earth. When Thandi spots insects on the plants, she first assumes they are all harmful, but careful observation reveals different roles: a caterpillar eats leaves, bees and butterflies visit flowers, ladybirds help control smaller pests and ants move through the soil. During a hot spell, several plants begin to wilt, leading Thandi to learn practical garden care by checking soil moisture, watering close to the roots at a suitable time and adding mulch to protect exposed soil. As the weeks pass, the garden changes from tiny shoots into a colourful harvest. Tomatoes are picked carefully, potatoes are uncovered beneath the soil, onions are pulled and dried, pumpkins are cut from their vines and cauliflower is harvested from the centre of the plant. Thandi initially expects to hand out the raw vegetables, but her family and neighbours decide to prepare a shared meal instead. Community members wash, chop and cook the vegetables, carry water, set tables, save seeds and compost scraps. Thandi’s Garden: From Seed to Supper is a warm science-and-food adventure showing children that every meal depends on soil, water, sunlight, living organisms, time, care and human work—and that food becomes even more meaningful when it is shared with dignity.",
+  "language": "English",
+  "category": "learn",
+  "collection": "science-and-nature",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "science-and-nature"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Waar kom ons kos vandaan?",
+    "sourceName": "African Storybook Initiative",
+    "author": "Valencia Casling",
+    "adapter": null,
+    "translator": "Meryke Barkley",
+    "illustrator": "Jonathan Field and Catherine Groenewald",
+    "assurer": null,
+    "copyrightNotice": "© African Storybook Initiative 2020",
+    "licenseName": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://www.africanstorybook.org/newviewer/index.php?bt=3&dual=false&id=36618",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook title Waar kom ons kos vandaan? and retitled Thandi’s Garden: From Seed to Supper. The source story follows Thandi and her mother as they prepare garden beds, plant pumpkins, potatoes, tomatoes, cauliflower and onions, water the plants every morning, care for them as they grow in the sun, deal with insects, harvest the vegetables and share the produce with people experiencing homelessness. The Panda Kids Club adaptation expands this simple growing-and-sharing story into a seed-level science and food journey while preserving its central lesson about where food comes from and the value of sharing. Changes include opening with Thandi wondering whether her lunch began in a shop; distinguishing seeds, seedlings, onion sets or bulbs and seed potatoes so that different crops are not shown beginning in the same way; expanding soil preparation to include loosening compacted ground, removing litter and adding compost; travelling beneath the soil to show water absorption, germination, root growth, shoots and small soil organisms over accelerated days and weeks; developing the insect episode so Thandi learns that some insects damage crops while others contribute to pollination or natural pest control; adding a hot-weather garden challenge in which she checks soil moisture, waters near the roots at an appropriate time and uses mulch to protect exposed soil; showing the different harvesting methods required for tomatoes, potatoes, onions, pumpkins and cauliflower; and expanding the source story's act of sharing into a dignified community meal where named community members participate in washing, chopping, cooking, carrying water, setting tables, saving seeds and composting scraps. The visual adaptation uses a cinematic seed-level perspective so leaves, soil particles, droplets, roots, insects and ordinary garden tools can be experienced at an adventurous miniature scale while remaining scientifically recognisable. People experiencing homelessness should be portrayed as individual community members with dignity and personality rather than as an anonymous grateful crowd. Final plant biology, crop-growing details, insects, South African home-garden environments, food preparation and community representation should remain grounded in appropriate educational research while preserving the source story's warm emphasis on gardening, care and generosity.",
+    "attributionText": "Waar kom ons kos vandaan? by Valencia Casling, translated by Meryke Barkley and illustrated by Jonathan Field and Catherine Groenewald. © African Storybook Initiative 2020. Source: African Storybook Initiative. Licensed under Creative Commons Attribution 4.0 (CC BY 4.0). Adapted for animation by Panda Kids Club as Thandi’s Garden: From Seed to Supper; changes were made."
+  }
+}

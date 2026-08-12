@@ -1,0 +1,30 @@
+{
+  "name": "Charlotte Maxeke, Activist Hero",
+  "slug": "charlotte-maxeke-activist-hero",
+  "shortDescription": "Discover how Charlotte Maxeke used education, courage and organised action to become a pioneering South African leader and defender of human rights.",
+  "longDescription": "Charlotte Maxeke, Activist Hero introduces young viewers to a remarkable South African educator, organiser and social activist. From pursuing an education at a time when opportunities for Black women were severely restricted to becoming the first Black South African woman to earn a university degree, Charlotte turned learning into service. The story follows her leadership in community and church organisations, her resistance to injustice and her work for women’s rights. It helps children explore perseverance, equality, civic participation and the power of education to prepare someone to improve the lives of others.",
+  "language": "English",
+  "category": "learn",
+  "collection": "real-african-heroes",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": { "pages": ["learn", "heroes"], "collections": ["real-african-heroes"] },
+  "assets": { "cardImage": "card.jpg", "heroPosterImage": "hero.jpg", "heroPreviewVideo": { "src": "preview.mp4", "type": "video/mp4" }, "fullVideo": { "src": "full.mp4", "type": "video/mp4" } },
+  "attribution": {
+    "originalTitle": "Charlotte Maxeke, activist hero",
+    "sourceName": "Ulwazi Lwethu / African Storybook Initiative",
+    "author": "Glanice Masilo",
+    "translator": "Glanice Masilo",
+    "illustrator": "Vusi Malindi",
+    "assurer": null,
+    "copyrightNotice": "© African Storybook Initiative 2023",
+    "licenseName": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.ulwazilwethu.org.za/charlotte-maxeke-activist-hero",
+    "originalSourceUrl": "https://www.africanstorybook.org/reader.php?id=46209",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from Charlotte Maxeke, activist hero. The animated edition preserves the source biography’s educational focus while expanding scenes, transitions and visual explanations for cinematic storytelling. Changes were made.",
+    "attributionText": "Charlotte Maxeke, activist hero by Glanice Masilo, translated by Glanice Masilo and illustrated by Vusi Malindi. © African Storybook Initiative 2023. Source: Ulwazi Lwethu / African Storybook Initiative. Licensed under Creative Commons Attribution 4.0 (CC BY 4.0). Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

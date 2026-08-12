@@ -1,0 +1,46 @@
+{
+  "name": "The Braai Budget Challenge",
+  "slug": "the-braai-budget-challenge",
+  "shortDescription": "Sipho, Thembi and Themba race to buy the missing ingredients for Gogo Maria’s birthday braai while using prices, quantities, addition, subtraction and fair sharing to stay within budget.",
+  "longDescription": "Gogo Maria’s birthday braai is almost ready, but Sipho, Thembi and Themba still need to buy the missing ingredients. Armed with a shopping list and a limited budget, the children compare prices and sizes, count quantities, add their grocery total, calculate their change and make careful choices before heading home. Along the way, they discover how practical mathematics can help a family shop wisely, check what they need and share what remains fairly.",
+  "language": "English",
+  "category": "learn",
+  "collection": "maths-and-money",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "maths-and-money"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "A Braai Day",
+    "sourceName": "African Storybook Initiative",
+    "author": "Noeh Cotti, Melanie Kieber and Andrea Niederer",
+    "translator": null,
+    "illustrator": "Noeh Cotti",
+    "copyrightNotice": "© African Storybook Initiative 2021",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/newviewer/index.php?bt=1&dual=false&id=36849",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "A Braai Day by Noeh Cotti, Melanie Kieber and Andrea Niederer, illustrated by Noeh Cotti. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

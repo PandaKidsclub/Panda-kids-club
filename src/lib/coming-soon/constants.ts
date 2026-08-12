@@ -1,0 +1,1 @@
+export const COMING_SOON_ROTATION_MS = 5_000;

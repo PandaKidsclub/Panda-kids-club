@@ -1,0 +1,46 @@
+{
+  "name": "The Salt Machine That Wouldn’t Stop",
+  "slug": "the-salt-machine-that-wouldnt-stop",
+  "shortDescription": "A generous widow’s magical salt machine is stolen by a greedy traveller, but his confidence disappears fast when the salt begins pouring out and refuses to stop.",
+  "longDescription": "In a village where a respected widow runs a thriving salt business, everyone wonders how she always has enough salt to sell. Her secret is a remarkable handmade machine that produces sparkling salt when given the right command. One evening, the widow welcomes a travelling stranger into her home. He secretly watches how the machine works and decides to steal it for himself. Soon he is carrying it toward the sea, dreaming of riches overseas. But aboard a boat, his imperfect command makes the machine pour out more and more salt until crystal heaps cover the deck. As the situation spirals into comic chaos, the widow and her neighbours arrive to help. The machine finally stops only after the stranger admits what he has done and willingly returns it. Everyone survives, the stranger must make amends, and the salt that spills into the sea becomes the folktale’s playful explanation for why seawater is salty. A magical African folktale about hospitality, greed, accountability, restitution and the difference between traditional stories and scientific explanations.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Widow and Salt Machine",
+    "sourceName": "African Storybook",
+    "author": "Caroline Mthimunye",
+    "translator": null,
+    "illustrator": "Michael Nakuwa, Wiehan de Jager, Jesse Breytenbach, Rob Owen, Silva Afonso, Vusi Malindi, Brian Wambi, SIL International and Jacob Kono",
+    "copyrightNotice": "© Caroline Mthimunye 2016",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made, including a child-friendly revised ending in which all characters survive, the thief accepts responsibility and makes restitution, and a closing educational note distinguishes the folktale explanation from the scientific explanation of dissolved salts in seawater.",
+    "attributionText": "Widow and Salt Machine by Caroline Mthimunye, illustrated by Michael Nakuwa, Wiehan de Jager, Jesse Breytenbach, Rob Owen, Silva Afonso, Vusi Malindi, Brian Wambi, SIL International and Jacob Kono. © Caroline Mthimunye 2016. Source: African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

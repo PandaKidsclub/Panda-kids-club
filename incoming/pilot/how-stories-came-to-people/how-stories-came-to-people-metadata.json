@@ -1,0 +1,46 @@
+{
+  "name": "How Stories Came to People",
+  "slug": "how-stories-came-to-people",
+  "shortDescription": "When Nyame keeps all the world’s stories locked in a wooden box in the sky, clever Anansi must capture a leopard, hornets and a snake to win the stories and bring them back to the people.",
+  "longDescription": "Long ago, the sky god Nyame kept every story locked inside a wooden box high in the sky, leaving the people on Earth with no stories to tell. They ask Anansi the Spider for help. Nyame agrees to give Anansi the stories only if he can bring him three dangerous creatures: a leopard, hornets and a snake. Using clever plans, tricks and help from his wife, Anansi completes each challenge. Nyame finally opens the box and gives him the stories, which Anansi carries back to Earth and shares with the people and animals.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "How Stories Came to People",
+    "sourceName": "African Storybook",
+    "author": "Ghanaian folktale",
+    "translator": null,
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "How Stories Came to People, a Ghanaian folktale illustrated by Wiehan de Jager. © African Storybook Initiative 2014. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

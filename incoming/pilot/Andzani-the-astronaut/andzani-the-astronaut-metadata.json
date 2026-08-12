@@ -1,0 +1,46 @@
+{
+  "name": "Andzani, the Astronaut",
+  "slug": "andzani-the-astronaut",
+  "shortDescription": "Andzani dreams of becoming an astronaut as he explores constellations, spacesuits, rockets, satellites, planets, meteors and the wonders of space.",
+  "longDescription": "Andzani loves looking at the night sky and dreams of travelling to space one day. As he learns about constellations, astronaut suits, spacecraft, rocket engines, satellites, orbits, the eight planets and meteors, his curiosity grows. With a telescope to help him study the distant sky, Andzani keeps learning while holding on to his dream of becoming an astronaut.",
+  "language": "English",
+  "category": "learn",
+  "collection": "science-and-space",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "science-and-space"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Andzani, the astronaut",
+    "sourceName": "African Storybook Initiative",
+    "author": "Arnold Mushwana and Given J Hlongwani",
+    "translator": null,
+    "illustrator": "Vidyun Sabhaney",
+    "copyrightNotice": "© African Storybook Initiative 2021",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Andzani, the astronaut by Arnold Mushwana and Given J Hlongwani, illustrated by Vidyun Sabhaney. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

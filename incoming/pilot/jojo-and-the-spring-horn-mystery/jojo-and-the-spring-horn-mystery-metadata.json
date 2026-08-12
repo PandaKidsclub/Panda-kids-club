@@ -1,0 +1,46 @@
+{
+  "name": "Jojo and the Spring Horn Mystery",
+  "slug": "jojo-and-the-spring-horn-mystery",
+  "shortDescription": "Jojo and Dudu follow a trail of shapes, distances, fractions and patterns across the Village of Many Shapes to solve the mystery of Chief Short and Round’s missing spring horn.",
+  "longDescription": "When Chief Short and Round announces that his spring horn has disappeared, Little Square Jojo volunteers to find it before the spring celebration begins. With Dudu Diamond as his co-investigator, Jojo follows an illustrated route through the Village of Many Shapes, visiting Tata Rectangle’s house, Jojo’s square home, Dudu’s diamond-patterned house and Mama Triangle’s mountain home. Along the way, the children use distance, addition and subtraction, halves, quarters, shape recognition, a six-sided hexagonal spiderweb, estimation and map-reading to keep the investigation moving. At the end of the journey, Mama Triangle reveals the comic truth: the chief has been wearing the horn on his head all day. Jojo is rewarded by sounding the horn to begin a spring festival filled with repeating patterns, symmetry and geometric formations.",
+  "language": "English",
+  "category": "learn",
+  "collection": "maths-and-problem-solving",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "maths-and-problem-solving"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Little Jojo’s Long Tall Tale",
+    "sourceName": "African Storybook Initiative",
+    "author": "Leo Daly",
+    "translator": null,
+    "illustrator": "Marleen Visser",
+    "copyrightNotice": "© African Storybook Initiative 2017",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/read/downloadbook.php?id=19923&layout=landscape",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made, including strengthening Dudu Diamond as a co-investigator, adding a recurring illustrated route map, making the mathematical ideas more visually explicit through distances, fractions, geometric patterns and physical route clues, placing the missing horn subtly on the chief’s head as a recurring visual joke, and expanding the spring-festival ending with repeating patterns, symmetry and geometric formations.",
+    "attributionText": "Little Jojo’s Long Tall Tale by Leo Daly, illustrated by Marleen Visser. © African Storybook Initiative 2017. Source: African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

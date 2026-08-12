@@ -1,0 +1,49 @@
+{
+  "name": "Mogau and the Fire-Safe Plan",
+  "slug": "mogau-and-the-fire-safe-plan",
+  "shortDescription": "After a frightening kitchen fire, Mogau helps her family learn how to prevent fires, recognise household hazards and follow a clear escape plan that gets everyone outside safely.",
+  "longDescription": "When a power interruption disrupts lunchtime at home, Mogau, Leo and Ann are reminded to wait for an adult before cooking. But Leo discovers improperly stored matches and paraffin and begins experimenting before Mogau notices. A small kitchen fire quickly becomes dangerous, and Mogau does the most important thing: she warns her siblings, leads them through the nearest safe exit, alerts a trusted adult and stays outside at the family meeting place. After the incident, a firefighter helps the family and Mogau’s classmates identify common household hazards such as accessible matches, unsafe paraffin storage, unstable cooking equipment, curtains near heat, overloaded plugs and blocked exits. Mogau then creates a simple picture-based fire-safety plan that her younger siblings can understand, with clear symbols for doors, windows, smoke, exits, the meeting tree, telephone help and staying outside. During a later harmless smoke incident, the family calmly follows the plan and proves that preparation works. Designed for young learners, Mogau and the Fire-Safe Plan teaches fire prevention, adult supervision, safe evacuation, family meeting points and the importance of getting out and staying out.",
+  "language": "English",
+  "category": "learn",
+  "collection": "safety-and-life-skills",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "safety-and-life-skills"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "The Three Little Fire Starters",
+    "sourceName": "African Storybook",
+    "author": "Molobela Bonolo Amazing",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Molobela Bonolo",
+    "assurer": "African Storybook",
+    "copyrightNotice": "© African Storybook Initiative 2024",
+    "licenseName": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://www.africanstorybook.org/newviewer/index.php?bt=1&dual=false&id=48001",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook title The Three Little Fire Starters and retitled Mogau and the Fire-Safe Plan. Changes were made to remove the original setup in which eight-year-old Mogau is left responsible for caring for her younger siblings and cooking; keep their mother nearby while establishing that the children have been told to wait for lunch; frame the dangerous access to matches and paraffin as an adult storage and supervision failure rather than bad behaviour by the children; show Mogau warning Leo and Ann, taking the nearest safe exit, going to an outdoor family meeting place, alerting a trusted adult and remaining outside instead of attempting to fight the fire; expand the story with a firefighter-led hazard-identification activity involving accessible matches, unsafe paraffin storage, an unstable stove, curtains near heat, an overloaded plug and a blocked exit; add a picture-based family escape plan with simple symbols for doors, windows, smoke, exits, a meeting tree, telephone help and staying outside; and add a later harmless smoke drill that demonstrates calm evacuation and preparedness without staging a second dangerous fire. The adaptation preserves the source story’s core fire-safety lesson while substantially expanding its focus on prevention, adult supervision, safe evacuation and family preparedness.",
+    "attributionText": "The Three Little Fire Starters, written by Molobela Bonolo Amazing and illustrated by Molobela Bonolo. © African Storybook Initiative 2024. Source: African Storybook. Licensed under Creative Commons Attribution 4.0 (CC BY 4.0). Adapted for animation by Panda Kids Club as Mogau and the Fire-Safe Plan; changes were made."
+  }
+}

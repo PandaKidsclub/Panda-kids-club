@@ -1,0 +1,46 @@
+{
+  "name": "Goat, Dog and Cow's Taxi Trouble",
+  "slug": "goat-dog-and-cows-taxi-trouble",
+  "shortDescription": "Three animal friends take a taxi to market, but when Cow pays exactly, Dog overpays and Goat slips away without paying, one small fare turns into a hilarious lesson about planning, responsibility and making things right.",
+  "longDescription": "Goat, Dog and Cow are great friends setting out together for a trip to the neighbouring market. Cow arrives prepared with the exact fare tucked safely into the small purse hanging beneath her bell. Dog arrives cheerful but overloaded with bags and carrying only a large note. Goat appears at the last moment, full of confidence but without any money at all. Their taxi ride quickly becomes a comedy of contrasting personalities: Cow sits calmly, Dog enthusiastically greets everyone, Goat tries to nibble another passenger's vegetables, and a stubborn chicken refuses to surrender the window seat. As the fare collection gets closer, Goat grows increasingly nervous. At the market, Cow pays exactly, Dog hands over too much and waits for his change, and Goat suddenly bolts away without paying. Distracted by Goat's escape, the driver pulls away before returning Dog's change. The friends become separated in the busy market, with Dog searching for the taxi, Goat hiding whenever she hears a horn, and Cow calmly using the market map to find them both. Goat eventually apologises and makes things right by helping the driver load market parcels, while Dog finally receives his change. The story closes with the familiar animal-behaviour joke preserved in a safe, playful way: Dog eagerly checks parked taxis, Goat hides when she hears a horn, and Cow remains calm because she paid her fare properly.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Goat, Dog and Cow",
+    "sourceName": "African Storybook Initiative",
+    "author": "Fabian Wakholi",
+    "translator": null,
+    "illustrator": "Marleen Visser",
+    "copyrightNotice": "© African Storybook Initiative 2018",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition. Changes were made, including expanding the original short taxi journey into a longer market-day comedy; establishing Cow as organised and prepared with the exact fare carried in a purse beneath her bell; giving Dog an overfilled travel satchel, extra market bags and a large note that requires change; developing Goat as a charming shortcut-seeker who grows nervous as the fare collection approaches; adding comic taxi-passenger moments including Dog greeting everyone, Goat reaching for an elderly passenger's vegetables and a chicken guarding the window seat; expanding Goat's search for money before she runs away; moving the main payment scene to a busy neighbouring market; adding a safe separation sequence in which Dog searches parked taxis, Goat hides from horns and Cow follows a market map; adding a reconciliation in which Goat apologises and helps the driver load parcels in place of the unpaid fare; ensuring Dog receives his change; and preserving the original closing joke about dogs, goats and cows around vehicles while avoiding unsafe chasing or road-crossing behaviour.",
+    "attributionText": "Goat, Dog and Cow, written by Fabian Wakholi and illustrated by Marleen Visser. © African Storybook Initiative 2018. Source edition: African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

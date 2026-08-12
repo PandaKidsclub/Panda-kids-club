@@ -1,0 +1,46 @@
+{
+  "name": "Chicken and Millipede",
+  "slug": "chicken-and-millipede",
+  "shortDescription": "Chicken and Millipede are friends until a football match, jealousy and one outrageous mistake turn their friendship upside down.",
+  "longDescription": "Chicken and Millipede are good friends who enjoy spending time together. But when they play football and Millipede scores three goals, Chicken becomes annoyed and swallows him. Millipede calls to his mother from inside Chicken, and before long Chicken becomes sick and coughs him back out. Their comic quarrel leaves Chicken and Millipede as enemies.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Chicken and Millipede",
+    "sourceName": "African Storybook Initiative",
+    "author": null,
+    "translator": null,
+    "illustrator": null,
+    "copyrightNotice": null,
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Chicken and Millipede. African Storybook Initiative. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

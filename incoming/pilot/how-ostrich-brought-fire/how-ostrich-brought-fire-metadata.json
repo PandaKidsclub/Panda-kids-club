@@ -1,0 +1,46 @@
+{
+  "name": "How Ostrich Brought Fire",
+  "slug": "how-ostrich-brought-fire",
+  "shortDescription": "When Lion refuses to share the power of fire, the community turns a night of music and dancing into a daring relay that only speedy Ostrich can finish.",
+  "longDescription": "Long ago, people and animals lived together, but only Lion controlled fire, leaving everyone else to eat raw food and endure the cold. The community invites Lion to a night of singing, clapping and dancing while Rabbit, Springbok and Duiker each try to escape with his fire sticks. Every attempt fails until Ostrich takes his turn. Though he seems awkward on the dance ground, his enormous stride carries him across the night-time veld faster than Lion can run. Ostrich brings the fire sticks to the people, who learn to make, carry and extinguish fire safely. In this expanded adaptation, Lion also discovers that sharing an important power does not make him weaker, while the community learns that fire must be used with care and responsibility.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Lion's fire sticks (Level 5)",
+    "sourceName": "African Storybook / Manyeka Arts Trust",
+    "author": "Traditional San story",
+    "translator": null,
+    "illustrator": "Manyeka Arts Trust",
+    "copyrightNotice": "© Manyeka Arts Trust 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club as How Ostrich Brought Fire. Changes were made, including an expanded musical relay, child-friendly chase staging, fire-safety learning and a revised reflective ending.",
+    "attributionText": "Lion's fire sticks (Level 5), a Traditional San story, illustrated by Manyeka Arts Trust. © Manyeka Arts Trust 2014. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club as How Ostrich Brought Fire; changes were made."
+  }
+}

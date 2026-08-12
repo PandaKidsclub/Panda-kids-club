@@ -1,0 +1,46 @@
+{
+  "name": "The Pot That Had a Baby",
+  "slug": "the-pot-that-had-a-baby",
+  "shortDescription": "Byantaka convinces his neighbour that a large clay pot has had a baby, setting off a hilarious village misunderstanding.",
+  "longDescription": "When Byantaka borrows his neighbour’s precious clay pot, he returns it with a tiny pot inside and claims it has had a baby. His delighted neighbour believes the impossible story and eagerly expects more. But when Byantaka later says the pot has died, the dispute goes before the village judge, who teaches both men a lesson about greed, honesty and working together.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Byantaka and the dead pot",
+    "sourceName": "African Storybook",
+    "author": "Peter Kisakye",
+    "translator": "Cornelius Wambi Gulere",
+    "illustrator": "Emily Berg",
+    "copyrightNotice": "© Text: Uganda Community Libraries Association (Ugcla); Artwork: African Storybook Initiative 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Byantaka and the dead pot by Peter Kisakye, translated by Cornelius Wambi Gulere, illustrated by Emily Berg. Uganda Community Libraries Association (Ugcla) / African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "King of the Birds",
+  "slug": "king-of-the-birds",
+  "shortDescription": "The birds cannot agree on who should lead, so they hold a race into the sky. Tiny Ncede reaches the highest point through a clever trick, but soon learns that being first does not automatically make someone a good leader.",
+  "longDescription": "Long ago, the birds gathered beneath their great meeting tree because everyone wanted to lead. Peacock valued beauty, Eagle valued strength, Owl valued wisdom and Ostrich believed size should count too. A wise elder suggests a race to see who can fly the highest. As the competitors drop out in increasingly funny ways, Vulture soars above them all, unaware that tiny Ncede has hidden among his layered feathers. Ncede emerges at the last moment and reaches the highest point, but the other birds accuse him of winning unfairly. After escaping their pursuit, Ncede returns and admits that reaching the highest place did not make him a good leader. The birds choose a council instead, learning that strong leadership comes from fairness, cooperation and using everyone's different strengths.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "King of the birds",
+    "sourceName": "African Storybook Initiative",
+    "author": "South African Folktale",
+    "translator": null,
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "King of the birds, a South African folktale, illustrated by Wiehan de Jager. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

@@ -1,0 +1,16 @@
+.next
+node_modules
+out
+dist
+build
+.env
+.env*.local
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
+Pandashare/
+Panda Kids Club streaming and educational platform/
+*.mp4
+*.mov
+*.m4v
+*.webm

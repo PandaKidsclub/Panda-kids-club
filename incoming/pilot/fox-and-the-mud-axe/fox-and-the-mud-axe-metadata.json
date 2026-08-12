@@ -1,0 +1,46 @@
+{
+  "name": "Fox and the Mud Axe",
+  "slug": "fox-and-the-mud-axe",
+  "shortDescription": "Fox frightens Tok with an impressive-looking axe, until clever Sparrow discovers that the terrifying blade is only made of mud.",
+  "longDescription": "Fox uses a fake mud axe to frighten Tok into giving up her eggs. When Sparrow notices cracks, clay marks and Fox avoiding water, she helps Tok uncover the trick. A single drop of water exposes the false axe, and Fox must return what he took and help strengthen Tok's nest.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Fox and his axe",
+    "sourceName": "African Storybook Initiative",
+    "author": "Nhial Gatkuoth Dol",
+    "translator": "Nhial Gatkuoth Dol",
+    "illustrator": "Arthur Makali",
+    "copyrightNotice": "© African Storybook Initiative 2022",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Fox and his axe by Nhial Gatkuoth Dol, illustrated by Arthur Makali. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

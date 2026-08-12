@@ -1,0 +1,48 @@
+{
+  "name": "Counting Animals",
+  "slug": "counting-animals",
+  "shortDescription": "Count from one to nine as elephant, giraffes, buffaloes, birds, antelopes, warthogs, zebras, frogs and fish gather at a lively African watering hole.",
+  "longDescription": "A gentle counting adventure unfolds across the African savannah as more and more animals make their way to the water. One elephant begins the journey, followed by two giraffes, three buffaloes, four birds, five antelopes, six warthogs and seven zebras. At the watering hole, eight frogs and nine fish add even more life to the scene. Then a lion arrives with a mighty roar and everyone wonders who might be afraid. The story ends warmly when the elephant calmly shares the water with the lion. Designed for very young learners, Counting Animals reinforces number recognition, one-to-one counting, animal vocabulary and simple sequencing through repetition, visual grouping and playful stop-motion comedy.",
+  "language": "English",
+  "category": "learn",
+  "collection": "early-learning",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "early-learning"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Counting animals",
+    "sourceName": "African Storybook",
+    "author": "Clare Verbeek, Thembani Dladla and Zanele Buthelezi",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Rob Owen",
+    "copyrightNotice": "© School of Education and Development (UKZN) and African Storybook Initiative 2007",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "http://cae.ukzn.ac.za/resources/seedbooks.aspx",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition. Changes were made to transform the simple counting book into a continuous handcrafted stop-motion visual story while preserving the original counting sequence and animal groups: one elephant, two giraffes, three buffaloes, four birds, five antelopes, six warthogs, seven zebras, eight frogs and nine fish. The adaptation establishes a single recurring African savannah and watering-hole environment; gives the animals consistent expressive clay-puppet designs and gentle comic personalities; expands their journeys to the water with visual comedy, reactions and environmental action; presents the lion's arrival as playful suspense rather than frightening danger; and develops the final scene into a warm shared-water moment in which the elephant calmly drinks beside the lion. The educational focus remains early counting, number recognition, sequencing and animal vocabulary.",
+    "attributionText": "Counting animals, written by Clare Verbeek, Thembani Dladla and Zanele Buthelezi, illustrated by Rob Owen. © School of Education and Development (UKZN) and African Storybook Initiative 2007. Source: African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club as Counting Animals; changes were made."
+  }
+}

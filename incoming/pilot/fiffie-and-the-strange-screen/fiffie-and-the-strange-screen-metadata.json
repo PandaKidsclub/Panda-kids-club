@@ -1,0 +1,48 @@
+{
+  "name": "Fiffie and the Strange Screen",
+  "slug": "fiffie-and-the-strange-screen",
+  "shortDescription": "When a strange pop-up interrupts Naledi’s butterfly research, Fiffie helps her remember three simple online-safety steps: pause, close and tell a trusted adult.",
+  "longDescription": "Naledi is researching butterflies for a school assignment when a misleading link suddenly opens a strange and confusing screen. As pop-ups multiply into a maze of false doors, noisy warnings and requests for personal information, Fiffie—a tiny butterfly from Naledi’s educational guide—helps her slow down and remember what to do: pause, close and tell. Naledi stops clicking, closes the unsafe page and speaks to a trusted adult, who helps her check that no personal information was shared, report or block the page, review safety settings and return to a trusted educational source. Along the way, Naledi learns not to share names, addresses, school details, passwords or photographs without permission, to avoid unknown links and downloads, and to treat other people kindly online. Later, she helps share the same three-step response in a supervised school digital-literacy club, showing children that upsetting content can appear unexpectedly and that asking for help is a smart, safe response.",
+  "language": "English",
+  "category": "learn",
+  "collection": "safety-and-life-skills",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "safety-and-life-skills"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "No Naughty Fingers, No Weird Websites",
+    "sourceName": "African Storybook",
+    "author": "Danica Strydom",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Danica Strydom",
+    "copyrightNotice": "© Danica Strydom 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/read/downloadbook.php?a=1&d=0&id=5313&layout=landscape",
+    "originalSourceUrl": "https://www.africanstorybook.org/read/downloadbook.php?a=1&d=0&id=5313&layout=landscape",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition. Changes were made, including retitling the adaptation Fiffie and the Strange Screen; replacing the source story’s blame-oriented 'naughty fingers' framing with a child-safe message that harmful or upsetting material can appear unexpectedly; introducing Naledi as a ten-year-old South African learner researching butterflies for a school assignment; expanding the brief internet-safety lesson into a visual digital-maze adventure in which misleading pop-ups, false prize doors, unknown links and personal-information requests represent online confusion without showing harmful content; developing Fiffie as a small butterfly guide who helps Naledi slow down and remember the three-step response 'Pause, Close, Tell' rather than acting as an all-powerful digital guardian; adding practical safety lessons about closing unsafe pages, telling a trusted adult, protecting names, addresses, school details and passwords, avoiding unknown links and downloads, asking permission before sharing photographs, blocking or reporting harmful accounts or content, and treating other people kindly online; giving the trusted adult responsibility for checking whether information was shared, completing reporting or blocking actions and reviewing safety settings; returning Naledi to a trusted educational source after the incident; and revising the ending so Naledi later contributes to a supervised school digital-literacy club where she shares the simple Pause, Close, Tell response with other children.",
+    "attributionText": "No Naughty Fingers, No Weird Websites, written and illustrated by Danica Strydom. © Danica Strydom 2014. Source: African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club as Fiffie and the Strange Screen; changes were made."
+  }
+}

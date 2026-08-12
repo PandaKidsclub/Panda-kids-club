@@ -1,0 +1,46 @@
+{
+  "name": "Zodwa and the Quarter Kota Mystery",
+  "slug": "zodwa-and-the-quarter-kota-mystery",
+  "shortDescription": "Zodwa turns an ordinary school lunch into a fractions mystery when she notices that one 'quarter' kota is smaller than another.",
+  "longDescription": "At Siyafunda Primary School, Zodwa notices that Jabu's kota is larger than hers even though both were sold as quarter loaves. With Jabu and Nomsa, she compares the portions and discovers that a true quarter must be one of four equal parts, while Mr Mkhize has been cutting each loaf into five smaller pieces. The children use maths, observation and respectful problem-solving to stand up for fair portions, honest pricing and better business practices.",
+  "language": "English",
+  "category": "learn",
+  "collection": "maths-and-money",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "maths-and-money"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Mr Mkhize's quarters",
+    "sourceName": "African Storybook Initiative",
+    "author": "Lorato Trok",
+    "translator": null,
+    "illustrator": "Marleen Visser",
+    "copyrightNotice": "© African Storybook Initiative 2016",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Mr Mkhize's quarters by Lorato Trok, illustrated by Marleen Visser. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

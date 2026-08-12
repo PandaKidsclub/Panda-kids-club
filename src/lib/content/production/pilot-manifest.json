@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "status": "active",
+  "programmes": [
+    {
+      "programme": {
+        "id": "pilot-ant-and-elephant",
+        "slug": "ant-and-elephant",
+        "mediaVersion": "stage9a-pilot-v1",
+        "name": "Ant and Elephant",
+        "shortDescription": "The animals choose tiny Ant as their king, but an elephant prince refuses to respect smaller creatures.",
+        "longDescription": "When the animals elect Ant as their new king, the powerful prince of elephants ignores the ants and their territory. King Ant teaches him that everyone deserves respect, no matter how small.",
+        "runtime": null,
+        "language": "English",
+        "category": "stories",
+        "collection": {
+          "id": "collection-more-storytime-titles",
+          "slug": "more-storytime-titles"
+        },
+        "ageRange": null,
+        "thumbnailImage": {
+          "src": "/media/programmes/ant-and-elephant/card.png",
+          "alt": "",
+          "width": 1672,
+          "height": 941
+        },
+        "heroPosterImage": {
+          "src": "/media/programmes/ant-and-elephant/hero.png",
+          "alt": "",
+          "width": 1672,
+          "height": 941
+        },
+        "heroPreviewVideo": {
+          "src": "/media/programmes/ant-and-elephant/preview.mp4",
+          "type": "video/mp4"
+        },
+        "fullVideo": {
+          "src": "/media/programmes/ant-and-elephant/full.mp4",
+          "type": "video/mp4"
+        },
+        "titleLogoImage": null,
+        "attribution": {
+          "originalTitle": "Ant and Elephant",
+          "sourceName": "Ulwazi Lwethu / African Storybook",
+          "author": "Sicelo Hlamandana",
+          "translator": "Sicelo Hlamandana",
+          "illustrator": "Simangaliso Sibiya & Fezile Twala",
+          "copyrightNotice": "\u00a9 Zenex Foundation - Saide 2023",
+          "licenseName": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://www.ulwazilwethu.org.za/ant-and-elephant",
+          "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+          "attributionText": "Ant and Elephant by Sicelo Hlamandana, illustrated by Simangaliso Sibiya and Fezile Twala. Ulwazi Lwethu / African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+        },
+        "badges": [],
+        "isNew": false,
+        "isFeatured": true,
+        "isPandaPick": false
+      },
+      "placements": [
+        {
+          "route": "stories",
+          "sectionId": "more-storytime-titles",
+          "position": "start"
+        }
+      ]
+    },
+    {
+      "programme": {
+        "id": "pilot-honey",
+        "slug": "honey",
+        "mediaVersion": "stage9a-pilot-v1",
+        "name": "Honey",
+        "shortDescription": "Kopano and Lereko enjoy honey-covered scones and ask where honey comes from.",
+        "longDescription": "After eating scones covered with honey, Kopano and Lereko ask their mother where honey comes from, beginning a simple discovery about the food they are enjoying.",
+        "runtime": null,
+        "language": "English",
+        "category": "learn",
+        "collection": {
+          "id": "collection-learn-with-panda",
+          "slug": "learn-with-panda"
+        },
+        "ageRange": null,
+        "thumbnailImage": {
+          "src": "/media/programmes/honey/card.png",
+          "alt": "",
+          "width": 1672,
+          "height": 941
+        },
+        "heroPosterImage": {
+          "src": "/media/programmes/honey/hero.png",
+          "alt": "",
+          "width": 1672,
+          "height": 941
+        },
+        "heroPreviewVideo": {
+          "src": "/media/programmes/honey/preview.mp4",
+          "type": "video/mp4"
+        },
+        "fullVideo": {
+          "src": "/media/programmes/honey/full.mp4",
+          "type": "video/mp4"
+        },
+        "titleLogoImage": null,
+        "attribution": {
+          "originalTitle": "Honey",
+          "sourceName": "Ulwazi Lwethu / African Storybook",
+          "author": "Martha Kekana Mathamela",
+          "illustrator": "Tammi Mbambo",
+          "copyrightNotice": "\u00a9 African Storybook Initiative 2023",
+          "licenseName": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://www.africanstorybook.org/reader.php?id=46364",
+          "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+          "attributionText": "Honey by Martha Kekana Mathamela, illustrated by Tammi Mbambo. African Storybook / Ulwazi Lwethu. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+        },
+        "badges": [],
+        "isNew": false,
+        "isFeatured": false,
+        "isPandaPick": false
+      },
+      "placements": [
+        {
+          "route": "learn",
+          "sectionId": "learn-with-panda",
+          "position": "start"
+        }
+      ]
+    },
+    {
+      "programme": {
+        "id": "pilot-sello-speaks-sign-language",
+        "slug": "sello-speaks-sign-language",
+        "mediaVersion": "stage9a-pilot-v1",
+        "name": "Sello speaks Sign Language",
+        "shortDescription": "Sello is Deaf and uses Sign Language to communicate with her sister, family and people around her.",
+        "longDescription": "Through an ordinary day at home, on the road and at the shops, Sello and her sister show how Sign Language helps them greet, learn, work together and stay safe. When someone does not understand Sign Language, Sello finds another way to communicate.",
+        "runtime": null,
+        "language": "English",
+        "category": "learn",
+        "collection": {
+          "id": "collection-more-learning-titles",
+          "slug": "more-learning-titles"
+        },
+        "ageRange": null,
+        "thumbnailImage": {
+          "src": "/media/programmes/sello-speaks-sign-language/card.png",
+          "alt": "",
+          "width": 1672,
+          "height": 941
+        },
+        "heroPosterImage": {
+          "src": "/media/programmes/sello-speaks-sign-language/hero.png",
+          "alt": "",
+          "width": 1672,
+          "height": 941
+        },
+        "heroPreviewVideo": {
+          "src": "/media/programmes/sello-speaks-sign-language/preview.mp4",
+          "type": "video/mp4"
+        },
+        "fullVideo": {
+          "src": "/media/programmes/sello-speaks-sign-language/full.mp4",
+          "type": "video/mp4"
+        },
+        "titleLogoImage": null,
+        "attribution": {
+          "originalTitle": "Sello speaks Sign Language",
+          "sourceName": "Ulwazi Lwethu / African Storybook",
+          "author": "Tebogo Matshana",
+          "translator": "Tebogo Matshana",
+          "illustrator": "Tebogo Matshana",
+          "copyrightNotice": "\u00a9 Zenex Foundation - Saide 2026 (Updated Edition)",
+          "licenseName": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://www.ulwazilwethu.org.za/sello-speaks-sign-language",
+          "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+          "attributionText": "Sello speaks Sign Language by Tebogo Matshana, illustrated by Tebogo Matshana. Ulwazi Lwethu / African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+        },
+        "badges": [],
+        "isNew": false,
+        "isFeatured": true,
+        "isPandaPick": false
+      },
+      "placements": [
+        {
+          "route": "learn",
+          "sectionId": "more-learning-titles",
+          "position": "start"
+        }
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "candidateId": "ant-and-elephant",
+      "stagingDirectory": "incoming/pilot/ant-and-elephant",
+      "discoveredAssets": [
+        "card.png",
+        "hero.png",
+        "preview.mp4",
+        "full.mp4",
+        "metadata.json"
+      ],
+      "missingForActivation": []
+    },
+    {
+      "candidateId": "honey",
+      "stagingDirectory": "incoming/pilot/honey",
+      "discoveredAssets": [
+        "card.png",
+        "hero.png",
+        "preview.mp4",
+        "full.mp4",
+        "metadata.json"
+      ],
+      "missingForActivation": []
+    },
+    {
+      "candidateId": "sello-speaks-sign-language",
+      "stagingDirectory": "incoming/pilot/sello-speaks-sign-language",
+      "discoveredAssets": [
+        "card.png",
+        "hero.png",
+        "preview.mp4",
+        "full.mp4",
+        "metadata.json"
+      ],
+      "missingForActivation": []
+    }
+  ]
+}

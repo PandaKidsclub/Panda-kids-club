@@ -1,0 +1,45 @@
+{
+  "name": "Honey",
+  "slug": "honey",
+  "shortDescription": "Kopano and Lereko enjoy honey-covered scones and ask where honey comes from.",
+  "longDescription": "After eating scones covered with honey, Kopano and Lereko ask their mother where honey comes from, beginning a simple discovery about the food they are enjoying.",
+  "language": "English",
+  "category": "learn",
+  "collection": "learn-with-panda",
+  "badges": [],
+  "isFeatured": false,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "learn-with-panda"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Honey",
+    "sourceName": "Ulwazi Lwethu / African Storybook",
+    "author": "Martha Kekana Mathamela",
+    "illustrator": "Tammi Mbambo",
+    "copyrightNotice": "© African Storybook Initiative 2023",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/reader.php?id=46364",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Honey by Martha Kekana Mathamela, illustrated by Tammi Mbambo. African Storybook / Ulwazi Lwethu. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

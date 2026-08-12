@@ -1,0 +1,46 @@
+{
+  "name": "Curious Baby Elephant",
+  "slug": "curious-baby-elephant",
+  "shortDescription": "A curious baby elephant follows her questions all the way to the river, where an unexpected encounter with Crocodile changes her little nose forever.",
+  "longDescription": "Long ago, elephants had short, stubby noses. One especially curious baby elephant wanted to know everything: why Giraffe had a long neck, why Rhino's horn was sharp, why Hippo's eyes were red, and most of all, what Crocodile ate for dinner. Ignoring her mother's warning, she follows Crow to the river and leans closer to what she thinks is a talking stone. When Crocodile suddenly grabs her nose, Baby Elephant pulls with all her strength until her nose stretches into a long trunk. What first seems strange soon becomes wonderfully useful for reaching fruit and spraying water. A playful African animal tale about curiosity, discovery and how elephants came to have long trunks.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Curious baby elephant",
+    "sourceName": "African Storybook",
+    "author": "Judith Baker and Lorato Trok",
+    "translator": null,
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Curious baby elephant by Judith Baker and Lorato Trok, illustrated by Wiehan de Jager. © African Storybook Initiative 2014. Source: African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Don't Cross a Flooded River!",
+  "slug": "dont-cross-a-flooded-river",
+  "shortDescription": "Four friends learn why flooded rivers are dangerous and how to respond safely when Lungi is swept into fast-moving water.",
+  "longDescription": "After a night of heavy rain, four friends arrive at the river they cross every day on their way to school. The river is swollen and dangerous, but Lungi tries to cross using the hidden stepping stones and is swept into the current. Remembering their water-safety lessons, Linda sends for help while Phelelani stays out of the water and reaches Lungi with a branch. The experience teaches the children an important lesson: never cross a flooded river, call an adult for help, and know the emergency number 112.",
+  "language": "English",
+  "category": "learn",
+  "collection": "water-safety",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "water-safety"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Don't cross a flooded river!",
+    "sourceName": "African Storybook Initiative",
+    "author": "Sea Rescue and Sean Verster",
+    "translator": null,
+    "illustrator": null,
+    "copyrightNotice": "© African Storybook Initiative 2020",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Don't cross a flooded river! by Sea Rescue and Sean Verster. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

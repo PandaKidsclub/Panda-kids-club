@@ -1,0 +1,46 @@
+{
+  "name": "The Day Punctuation Disappeared",
+  "slug": "the-day-punctuation-disappeared",
+  "shortDescription": "When Full Stop vanishes from Sentence Street, Zuri must help the punctuation team restore order before every sentence runs into the next.",
+  "longDescription": "Zuri thinks punctuation only slows down her writing, but everything changes when Full Stop disappears and Sentence Street falls into breathless chaos. Comma, Question Mark, Exclamation Mark, Quotation Marks and the rest of the punctuation team must use their special jobs to help Zuri repair her unfinished story. Along the way, she discovers how punctuation controls pauses, questions, exclamations, direct speech, possession, contractions and the meaning of sentences.",
+  "language": "English",
+  "category": "learn",
+  "collection": "language-and-literacy",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "language-and-literacy"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Sentence Street",
+    "sourceName": "African Storybook Initiative",
+    "author": "Mimi Werna",
+    "translator": null,
+    "illustrator": "Joe Werna",
+    "copyrightNotice": "© African Storybook Initiative 2019",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/newviewer/index.php?bt=1&dual=false&id=32606",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Sentence Street by Mimi Werna, illustrated by Joe Werna. African Storybook Initiative. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

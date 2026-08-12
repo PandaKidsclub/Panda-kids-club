@@ -1,0 +1,46 @@
+{
+  "name": "The Woman Who Judged the Animals",
+  "slug": "the-woman-who-judged-the-animals",
+  "shortDescription": "When Hyena and Monkey’s quarrel damages the village water channel, a calm woman succeeds where the frightened judge and elders fail.",
+  "longDescription": "Hyena and Monkey argue over a shared fruit tree and take their dispute to the village judge. Afraid of angering either animal, the judge sends them to the elders, who are just as unwilling to decide. At last, the animals are sent to a poor woman who has neither cattle nor corn to lose. By listening carefully and asking what each animal truly needs, she helps Hyena protect the shade around his den, Monkey safely harvest fruit from selected branches, and both animals repair the damaged village water channel. When the animals apologise and the problem is solved, the whole village discovers that fair judgement begins with listening to the real problem instead of fearing the loudest voices.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Hyena and Monkey",
+    "sourceName": "African Storybook",
+    "author": "Mulualem Daba",
+    "translator": "Elizabeth Laird",
+    "illustrator": "Salim Kasamba",
+    "copyrightNotice": "© African Storybook Initiative 2017",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Hyena and Monkey by Mulualem Daba. Translated by Elizabeth Laird. Illustrated by Salim Kasamba. © African Storybook Initiative 2017. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "panda-kids-club",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.16.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "eslint . --max-warnings=0",
+    "typecheck": "tsc --noEmit",
+    "validate:content": "node scripts/validate-content.mjs",
+    "validate:release": "node scripts/validate-coming-soon-release.mjs",
+    "content:report": "node scripts/content-report.mjs",
+    "test:media": "node --experimental-strip-types --test scripts/media-resolution.test.mjs",
+    "test:watch-progress": "node --experimental-strip-types --test scripts/watch-progress.test.mjs",
+    "media:check": "node --experimental-strip-types scripts/media-check.mjs",
+    "production:check": "node --experimental-strip-types scripts/production-check.mjs",
+    "content:scan": "node scripts/content-scan.mjs",
+    "content:publish": "node scripts/content-publish.mjs",
+    "test:content": "node --test scripts/content-pipeline.test.mjs",
+    "test:shop": "node --experimental-strip-types --test scripts/shopify-commerce.test.mjs",
+    "shopify:check": "node --experimental-strip-types scripts/shopify-check.mjs"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.7.0",
+    "@shopify/storefront-api-client": "^2.0.0",
+    "next": "^16.3.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@types/three": "^0.182.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.0",
+    "typescript": "^6.0.3"
+  }
+}

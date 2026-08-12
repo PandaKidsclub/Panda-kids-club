@@ -1,0 +1,49 @@
+{
+  "name": "The Great African Unity Relay",
+  "slug": "the-great-african-unity-relay",
+  "shortDescription": "Kadogo and Juma begin a relay from Cape Town with a glowing unity torch, and as young runners from across Africa join the journey, they discover that true strength comes from sharing the distance, supporting one another and carrying the flame together.",
+  "longDescription": "Kadogo and Juma are best friends who love running. After studying a map of Africa at school, they imagine carrying a message of unity across the continent. Their idea becomes The Great African Unity Relay: a carefully organised journey beginning in Cape Town, where a small flame is passed from one group of young runners to the next. The route travels north along the Atlantic side of Africa through Namibia, Angola, the Democratic Republic of Congo, Congo and Cameroon before reaching Nigeria and following the River Niger into West Africa. In Mali, a fierce sandstorm forces the runners to stop and rely on local knowledge to reach shelter safely. The relay continues through Guinea, Senegal and Mauritania to Morocco, then crosses North Africa through Algeria and Libya before turning south from Egypt along the Nile. More runners join in Uganda and Kenya, and the group reaches the Indian Ocean near Mombasa before setting its sights on Mount Kilimanjaro. As the journey grows longer, Juma hides how exhausted he has become until the team stops immediately to help him. With water, rest and medical attention, he learns that carrying the torch does not mean carrying everything himself. Kadogo continues with a rested relay team, and the unity flame reaches Kilimanjaro before the runners head south through Malawi and Zimbabwe. Juma recovers and rejoins his friend for the final stage at Great Zimbabwe, where children from across the route place colourful regional ribbons around the torch stand. The Great African Unity Relay is a sweeping geography and teamwork adventure about rivers, deserts, coastlines, cities, mountains, safe endurance, shared responsibility and the idea that a continent is strongest when no one is asked to carry the journey alone.",
+  "language": "English",
+  "category": "learn",
+  "collection": "african-geography-and-culture",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "african-geography-and-culture"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Africa Unity Race",
+    "sourceName": "African Storybook Initiative",
+    "author": "Nina Orange and Ursula Nafula",
+    "adapter": null,
+    "translator": null,
+    "illustrator": "Brian Wambi",
+    "assurer": null,
+    "copyrightNotice": "© African Storybook Initiative 2016",
+    "licenseName": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": null,
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook title Africa Unity Race and retitled The Great African Unity Relay. The source story follows friends Kadogo and Juma as they decide to run across Africa carrying a unity torch, beginning in Cape Town and travelling through Namibia, Angola, the Democratic Republic of Congo, Congo, Cameroon, Nigeria, Mali, Guinea, Senegal, Mauritania, Morocco, Algeria, Libya, Egypt, Uganda, Kenya, Tanzania, Malawi and Zimbabwe. Along the way more runners join them, they follow major rivers, face a sandstorm in Mali, visit coastal and urban locations, travel toward Mount Kilimanjaro and finally arrive at Great Zimbabwe. The source also includes Juma becoming exhausted and passing the torch to Kadogo. The Panda Kids Club adaptation restructures the continuous run as a staged, supervised relay completed over an extended period so that young runners from different regions carry the torch for selected parts of the route. Changes include adding planned rest, hydration, food, support transport and adult supervision; giving local runners meaningful contributions such as route knowledge, safe pacing and guidance during difficult terrain; changing the Mali sandstorm so the group stops running and follows local guides to shelter; developing Juma's exhaustion gradually and ensuring the team stops immediately when he becomes unwell so that he receives water, rest and medical attention; making the torch handover a lesson that sharing responsibility is part of unity rather than a heroic sacrifice; staging the Kilimanjaro sequence at a safe supervised viewpoint rather than presenting an unsafe endurance climb; allowing Juma to recover and rejoin the group; and expanding the Great Zimbabwe ending so children from the different relay stages place small regional ribbons around the torch stand without one country or colour dominating. The adaptation also expands the educational geography of the journey through researched contemporary landscapes, cities, rivers, coastlines, transport, running culture and weather, while avoiding reducing countries to costumes, monuments or tourism stereotypes. Final clothing, architecture, languages, food, music, transport and cultural details for each major regional stage should remain grounded in appropriate research and the source story's pan-African message.",
+    "attributionText": "Africa Unity Race by Nina Orange and Ursula Nafula, illustrated by Brian Wambi. © African Storybook Initiative 2016. Source: African Storybook Initiative. Licensed under Creative Commons Attribution 4.0 (CC BY 4.0). Adapted for animation by Panda Kids Club as The Great African Unity Relay; changes were made."
+  }
+}

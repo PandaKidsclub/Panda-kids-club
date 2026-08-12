@@ -1,0 +1,46 @@
+{
+  "name": "Magozwe",
+  "slug": "magozwe",
+  "shortDescription": "A homeless boy discovers a storybook that awakens his dreams and slowly finds the courage to trust, learn and imagine a better future.",
+  "longDescription": "After losing his parents and running away from an abusive uncle, young Magozwe survives on the streets with other boys. When he finds an old storybook, its pictures inspire dreams of becoming a pilot. A patient community worker named Thomas gradually earns his trust, introduces him to a safe home and encourages him to attend school. Through stories, perseverance and the care of people around him, Magozwe begins to believe in himself and imagine a future of his own.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Magozwe",
+    "sourceName": "African Storybook Initiative",
+    "author": "Lesley Koyi",
+    "translator": "",
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Magozwe by Lesley Koyi, illustrated by Wiehan de Jager. African Storybook Initiative, 2015. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

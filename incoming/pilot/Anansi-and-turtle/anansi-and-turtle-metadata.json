@@ -1,0 +1,46 @@
+{
+  "name": "Anansi and Turtle",
+  "slug": "anansi-and-turtle",
+  "shortDescription": "Anansi refuses to share his delicious yams, but Turtle later invites him to a dinner beneath the river where Anansi learns a clever lesson about fairness.",
+  "longDescription": "Anansi cooks a wonderful meal of roasted yams, but when hungry Turtle arrives, Anansi tricks him and eats the food himself. Later, Turtle invites Anansi to dinner at his underwater home. Anansi struggles to reach the riverbed until he fills his patterned coat with stones, only to float back to the surface when Turtle politely asks him to remove it before eating.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Anansi and Turtle",
+    "sourceName": "African Storybook",
+    "author": "Ghanaian folktale",
+    "translator": "African Storybook",
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2014",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Anansi and Turtle, a Ghanaian folktale translated by African Storybook and illustrated by Wiehan de Jager. © African Storybook Initiative 2014. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

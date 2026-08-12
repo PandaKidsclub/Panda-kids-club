@@ -1,0 +1,48 @@
+{
+  "name": "Raindrop Riders: The Water Cycle Adventure",
+  "slug": "raindrop-riders-the-water-cycle-adventure",
+  "shortDescription": "Two children climb aboard a magical living raindrop and follow water from clouds to soil, groundwater, rivers and the ocean before rising again and returning as rain.",
+  "longDescription": "When rain interrupts their outdoor play, two children meet a playful living raindrop that invites them on an extraordinary journey through the water cycle. They race across wet leaves, watch thirsty roots drink, travel through layers of soil and rock, and see groundwater drawn upward by a pump. Their drop then joins streams and rivers on the way to the ocean, where sunlight warms the water and changes it into invisible water vapour. Rising high into the atmosphere, the children discover how cooling water vapour condenses into tiny liquid droplets or ice crystals that form visible clouds before falling back to Earth as rain. Along the way, they see how plants, animals, farms and people depend on clean water and why it must be protected from waste and pollution. Designed for young learners, Raindrop Riders: The Water Cycle Adventure combines science, environmental responsibility and cinematic adventure so children learn the complete water cycle by travelling through it.",
+  "language": "English",
+  "category": "learn",
+  "collection": "science-and-nature",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "science-and-nature"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Let's ride on raindrops",
+    "sourceName": "African Storybook",
+    "author": "Ndivhuho Mutsila",
+    "adapter": null,
+    "translator": "Ndivhuho Mutsila",
+    "illustrator": "Sayan Mukherjee",
+    "copyrightNotice": "© African Storybook Initiative 2021, Pratham Books (images)",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": null,
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook edition of Let's ride on raindrops and retitled Raindrop Riders: The Water Cycle Adventure. Changes were made to expand the original educational journey into a cinematic story led by two consistent child riders and an original sentient raindrop guide; develop the rain, plant, soil, groundwater, pump, stream, river, ocean, evaporation, condensation and return-rain stages into connected adventure sequences; show groundwater moving through spaces between soil, sand and rock rather than as a single underground lake; clarify that evaporation produces invisible water vapour and that visible clouds form when water vapour cools and condenses into tiny liquid droplets or ice crystals; add comic encounters with an earthworm and other small underground life; and strengthen the environmental message around careful water use, clean water, farming, animals and preventing waste or pollution. The adaptation preserves the source story's central educational purpose: helping children understand that water continuously travels through the natural world and that all living things depend on it.",
+    "attributionText": "Let's ride on raindrops, written and translated by Ndivhuho Mutsila and illustrated by Sayan Mukherjee. © African Storybook Initiative 2021, Pratham Books (images). Source: African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club as Raindrop Riders: The Water Cycle Adventure; changes were made."
+  }
+}

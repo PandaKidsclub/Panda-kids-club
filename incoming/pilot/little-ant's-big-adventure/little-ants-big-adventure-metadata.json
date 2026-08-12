@@ -1,0 +1,46 @@
+{
+  "name": "Little Ant’s Big Adventure",
+  "slug": "little-ants-big-adventure",
+  "shortDescription": "A book-loving little ant leads his colony on a daring expedition to a giant restaurant when their food stores begin to run dry.",
+  "longDescription": "When an early dry season leaves the colony with almost nothing to eat, Little Ant remembers something he discovered in his books: a nearby restaurant filled with food. Using maps, diagrams and clever inventions, he leads a small expedition across a dangerous road, a rushing gutter and an enormous kitchen. His big adventure proves that reading, curiosity and teamwork can help an entire community.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Little Ant’s big plan",
+    "sourceName": "Book Dash / African Storybook",
+    "author": "Candice Dingwall",
+    "translator": null,
+    "illustrator": "Steven McKimmie",
+    "copyrightNotice": "© Candice Dingwell, Steven McKimmie, Telri Stoop, Book Dash 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club as Little Ant’s Big Adventure. Changes were made, including expanded characters, environments, story events and an extended restaurant expedition.",
+    "attributionText": "Little Ant’s big plan by Candice Dingwall, illustrated by Steven McKimmie. Book Dash / African Storybook. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club as Little Ant’s Big Adventure; changes were made."
+  }
+}

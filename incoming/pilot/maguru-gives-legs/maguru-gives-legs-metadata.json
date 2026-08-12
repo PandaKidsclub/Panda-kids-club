@@ -1,0 +1,46 @@
+{
+  "name": "Maguru Gives Legs",
+  "slug": "maguru-gives-legs",
+  "shortDescription": "Long ago, animals had no legs. When the wise Maguru decides to give them the power to walk, every creature rushes to his hilltop home—except one sleepy Snake.",
+  "longDescription": "Long ago, animals had no legs and had to crawl wherever they went. Maguru, the wise keeper of legs, decides that it is time for the animals to walk. Giraffes, lions, elephants, rabbits, crocodiles and birds travel to his hilltop home, where Maguru gives four legs to each animal and two to every bird. When Millipede reaches the front at the very end of the line, Maguru gives him all the remaining legs. Only after Millipede leaves does sleepy Snake finally arrive. With no legs left to give, Maguru must send Snake home as he came. From that day onward, Snake stays alert, hoping to be first in line if legs are ever given out again.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-folktales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-folktales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Maguru gives legs",
+    "sourceName": "African Storybook Initiative",
+    "author": "Mutugi Kamundi",
+    "translator": null,
+    "illustrator": "Wiehan de Jager",
+    "copyrightNotice": "© African Storybook Initiative 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made.",
+    "attributionText": "Maguru gives legs by Mutugi Kamundi, illustrated by Wiehan de Jager. African Storybook Initiative, 2015. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}

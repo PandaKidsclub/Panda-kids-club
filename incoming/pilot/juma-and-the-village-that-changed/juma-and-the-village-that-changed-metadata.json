@@ -1,0 +1,49 @@
+{
+  "name": "Juma and the Village That Changed",
+  "slug": "juma-and-the-village-that-changed",
+  "shortDescription": "When his village’s water, waste, food, school and safety problems begin to connect, eight-year-old Juma helps his community investigate the causes, map what needs fixing and build a practical plan for lasting change.",
+  "longDescription": "Juma’s day begins with what should be a simple job: fetching water before school. But the village’s only tap produces such a weak flow that the queue stretches on and Juma arrives late. As he moves through the village, he begins noticing that the problems are connected. Dry soil makes food growing difficult, litter blocks drainage and blows across paths, broken glass creates unsafe walking routes, some children are missing school, and families are relying on solutions that never seem to last. Then the tap dries up completely. Frustration spreads as neighbours blame the weather, the authorities, young people and one another. Juma’s father calls a public meeting and asks everyone to bring observations instead of accusations. The children create a large community map showing water points, unsafe paths, waste areas, drainage channels, possible garden space, school routes and homes where older residents may need assistance. Juma volunteers to help with the clean-up, and the meeting grows into a shared plan involving adults, young people and children in safe, age-appropriate roles. The first attempts are imperfect: unsecured rubbish blows back across the village, and a newly planted garden begins to wilt because the group has not yet agreed on a watering system. Instead of giving up, the community learns to plan for maintenance. Over the following months, adults safely remove broken glass, waste is sorted and collected, organic scraps become compost, paths to school are cleared, a protected food garden is established, rainwater is harvested and qualified workers assess the village’s water supply. A rotating maintenance schedule helps keep the improvements going. Juma and the Village That Changed is a social-science and environmental learning story about evidence, planning, public meetings, shared responsibility and the idea that lasting community change depends on systems that people continue to care for together.",
+  "language": "English",
+  "category": "learn",
+  "collection": "environment-and-sustainability",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": true,
+  "placement": {
+    "pages": [
+      "learn"
+    ],
+    "collections": [
+      "environment-and-sustainability"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Decision (Colour-in)",
+    "sourceName": "African Storybook Initiative",
+    "author": "Ursula Nafula",
+    "adapter": "Ingrid Schechter",
+    "translator": "Ursula Nafula",
+    "illustrator": "Vusi Malindi",
+    "assurer": null,
+    "copyrightNotice": "© African Storybook Initiative 2015",
+    "licenseName": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "originalSourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club from the African Storybook title Decision (Colour-in) and retitled Juma and the Village That Changed. The source story describes a village facing a long queue at its only water tap, dependence on donated food, theft and insecurity, children leaving school, young girls working as maids, young boys roaming or working on farms, windblown waste paper, injuries from broken glass and the village tap eventually drying up. Juma’s father calls a village meeting, eight-year-old Juma volunteers to help clean up, one adult proposes growing food, another proposes digging a well, and the community decides to work together to solve its problems. The Panda Kids Club adaptation expands this short community-action ending into a child-led investigation and longer systems-thinking story while preserving the original lesson about shared responsibility. Changes include making Juma the central viewpoint character and opening with his attempt to fetch water before school; showing how water shortages, food insecurity, waste, unsafe paths and school attendance can affect one another; replacing blame at the dried tap with Juma’s father asking residents to bring observations and evidence to a public meeting; introducing a large child-designed community map showing water points, drainage, waste areas, school routes, garden space and homes where older residents may need support; updating the source’s gendered work proposals so women, men and young people can participate across suitable community roles; restricting children to safe, supervised and age-appropriate tasks; replacing the suggestion that residents simply dig an unregulated well with professional or municipal assessment of the water source and safe water options; adding work teams for clean-up, food growing, path repair, school support, safety education, water investigation and municipal liaison; adding setbacks in which wind redistributes unsecured waste and the first garden wilts because planting begins before a watering plan is established; showing the community respond by designing systems rather than relying on a single clean-up day; and expanding the final transformation over several months to include safe adult collection of broken glass, organised waste removal, composting, a protected food garden, rainwater harvesting, clearer school paths and a rotating maintenance schedule. The visual adaptation uses strong before-and-after environmental storytelling, recurring objects such as the dry tap, windblown paper and broken glass, and the community map as the central educational device. Final water-safety guidance, waste handling, garden practices, child participation, public-health messaging and community infrastructure should remain grounded in appropriate educational and local professional guidance.",
+    "attributionText": "Decision (Colour-in) by Ursula Nafula, adapted by Ingrid Schechter, translated by Ursula Nafula and illustrated by Vusi Malindi. © African Storybook Initiative 2015. Source: African Storybook Initiative. Licensed under Creative Commons Attribution 4.0 (CC BY 4.0). Adapted for animation by Panda Kids Club as Juma and the Village That Changed; changes were made."
+  }
+}

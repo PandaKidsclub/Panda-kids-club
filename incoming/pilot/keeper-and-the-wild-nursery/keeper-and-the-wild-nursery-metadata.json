@@ -1,0 +1,46 @@
+{
+  "name": "Keeper and the Wild Nursery",
+  "slug": "keeper-and-the-wild-nursery",
+  "shortDescription": "Keeper and his wildlife team care for orphaned animals, helping Nomsa, Ndiwa, Ambia and three hungry cheetah cubs grow strong enough to return to the wild.",
+  "longDescription": "Keeper runs a special nursery for orphaned wild animals. After helping young Nomsa regain her strength, the team receives five-day-old elephant Ndiwa by helicopter, cares for weak young giraffe Ambia and welcomes three hungry cheetah cubs named Kopi, Kepi and Keji. As feeding challenges, nursery mischief and a powerful storm test the team, Nomsa becomes a calming presence for the younger animals. Months later, Keeper faces the bittersweet moment every wildlife rescuer hopes for: opening the gate so a recovered animal can return home to the wild.",
+  "language": "English",
+  "category": "stories",
+  "collection": "more-storytime-titles",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "more-storytime-titles"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Keeper and his special nursery",
+    "sourceName": "African Storybook Initiative",
+    "author": "Ursula Nafula and Nina Orange",
+    "translator": null,
+    "illustrator": "Magriet Brink",
+    "copyrightNotice": "© African Storybook Initiative 2015",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club as Keeper and the Wild Nursery. Changes were made, including an expanded rescue storyline, nursery storm sequence, additional character interactions and a release ending.",
+    "attributionText": "Keeper and his special nursery by Ursula Nafula and Nina Orange, illustrated by Magriet Brink. African Storybook Initiative. © African Storybook Initiative 2015. Licensed under CC BY 4.0. Adapted for animation by Panda Kids Club as Keeper and the Wild Nursery; changes were made."
+  }
+}

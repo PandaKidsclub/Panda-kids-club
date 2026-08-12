@@ -1,0 +1,47 @@
+{
+  "name": "Tortoise the Hero",
+  "slug": "tortoise-the-hero",
+  "shortDescription": "When someone keeps muddying the animals’ precious new well, a quiet and clever Tortoise devises a simple plan to uncover the culprit and protect the community’s clean water.",
+  "longDescription": "When the animals run out of water, they work together to build a deep community well. But each morning they discover that someone has been secretly swimming in it and leaving the water muddy. Rabbit, Monkey and Warthog all try to guard the well, but each is outsmarted by the overconfident Jackal. At last, the patient and underestimated Tortoise creates a simple plan that reveals the truth. In this playful stop-motion adaptation, Jackal learns to repair the harm he caused by cleaning the well, helping the community and looking after a separate bathing pool.",
+  "language": "English",
+  "category": "stories",
+  "collection": "african-animal-tales",
+  "badges": [],
+  "isFeatured": true,
+  "isPandaPick": false,
+  "isNew": false,
+  "placement": {
+    "pages": [
+      "stories"
+    ],
+    "collections": [
+      "african-animal-tales"
+    ]
+  },
+  "assets": {
+    "cardImage": "card.jpg",
+    "heroPosterImage": "hero.jpg",
+    "heroPreviewVideo": {
+      "src": "preview.mp4",
+      "type": "video/mp4"
+    },
+    "fullVideo": {
+      "src": "full.mp4",
+      "type": "video/mp4"
+    }
+  },
+  "attribution": {
+    "originalTitle": "Tortoise the hero",
+    "sourceName": "African Storybook",
+    "author": "Ntombifuthi Ncwayiba",
+    "translator": "Ntombifuthi Ncwayiba",
+    "illustrator": "Khanyisa Masemola",
+    "assurer": "African Storybook",
+    "copyrightNotice": "© Zenex Foundation - Saide 2026 (Updated Edition)",
+    "licenseName": "CC BY",
+    "licenseUrl": null,
+    "sourceUrl": "https://www.africanstorybook.org/",
+    "adaptationNote": "Adapted for animation by Panda Kids Club. Changes were made, including a child-friendly non-violent capture and restorative comic consequence.",
+    "attributionText": "Tortoise the hero by Ntombifuthi Ncwayiba, translated by Ntombifuthi Ncwayiba and illustrated by Khanyisa Masemola. African Storybook. © Zenex Foundation - Saide 2026 (Updated Edition). Licensed under CC BY. Adapted for animation by Panda Kids Club; changes were made."
+  }
+}
